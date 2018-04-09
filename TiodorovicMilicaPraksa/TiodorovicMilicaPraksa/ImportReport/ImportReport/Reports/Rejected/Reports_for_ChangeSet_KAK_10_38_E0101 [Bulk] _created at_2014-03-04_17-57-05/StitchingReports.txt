@@ -1,0 +1,6 @@
+Stitching node FOUND in model with customID KAK_10_38_S0001 and name 'Øresundsbroen Kabel 1'.
+Stitching node type: FeederHeadAndHVSubstation, node customID: KAK_10_38_S0001, node description: ''
+Stitching node FOUND in model with customID KAK_10_39_S0001 and name 'Øresundsbroen Kabel 2'.
+Stitching node type: FeederHeadAndHVSubstation, node customID: KAK_10_39_S0001, node description: ''
+Stitching node FOUND in model with customID KAK_10_40_S0001 and name 'Øresundsbroen Kabel 3'.
+Stitching node type: FeederHeadAndHVSubstation, node customID: KAK_10_40_S0001, node description: ''

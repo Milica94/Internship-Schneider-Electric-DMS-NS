@@ -1,0 +1,31 @@
+Parsing CIM extract file.
+Creating CIM model according to CIM profile.
+Creating  changeset for Extract: CIMExport_201403031607_TIT65_1.xml
+
+Report date: 03-04-2014
+---------------------------------------------------------------------------------
+
+
+
+
+Report for changeset which was made from extract(s): CIMExport_201403031607_TIT65_1.xml
+Changeset made from extract: CIMExport_201403031607_TIT65_1.xml loaded from data base.
+Applying changeset with id: 144396663052567643...
+UpdateResult report received for Gis changeset with ID: 144396663052567643
+
+ResultType: NotValid.
+
+Error description for entity (CustomId = "HighVoltageSwitch.264358", Name = "SKINNE 1")
+Description: Invalid entity
+Error detail 1:
+ - Description: Vector count error. Number of elements in vector: 0 outside of allowed range: (1, 65536)where type(IDOBJ_LID) = DSIGNAL AND DSIGNAL_TYPE = SwitchStatus AND SIGNAL_DIRECTION in (Read, ReadWrite) .
+ - PropertyId: PSR_MEAS
+ - Validation error code: InvalidVectorCount
+
+Error description for entity ()
+Description: Invalid entity
+Error detail 1:
+ - Description: Element with gid: {0x0201005d00014d85} has the same custom id = "HighVoltageSwitch.264358" that already exists in Network Model.
+ - PropertyId: IDOBJ_CUSTOMID
+ - Validation error code: InvalidCustomIds
+

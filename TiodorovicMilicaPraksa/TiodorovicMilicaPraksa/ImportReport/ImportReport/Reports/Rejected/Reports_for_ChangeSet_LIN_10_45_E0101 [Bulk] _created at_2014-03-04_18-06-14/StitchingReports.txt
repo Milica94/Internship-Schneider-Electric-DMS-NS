@@ -1,0 +1,2 @@
+Stitching node FOUND in model with customID LIN_10_45_S0001 and name 'Solbjerg Have Øst'.
+Stitching node type: FeederHeadAndHVSubstation, node customID: LIN_10_45_S0001, node description: ''

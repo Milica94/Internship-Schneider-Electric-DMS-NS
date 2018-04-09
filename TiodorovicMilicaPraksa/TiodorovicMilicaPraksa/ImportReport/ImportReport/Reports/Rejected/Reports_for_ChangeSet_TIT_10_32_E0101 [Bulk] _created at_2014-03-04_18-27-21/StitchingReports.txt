@@ -1,0 +1,2 @@
+Stitching node FOUND in model with customID TIT_10_32_S0001 and name 'Tivoli G'.
+Stitching node type: FeederHeadAndHVSubstation, node customID: TIT_10_32_S0001, node description: ''

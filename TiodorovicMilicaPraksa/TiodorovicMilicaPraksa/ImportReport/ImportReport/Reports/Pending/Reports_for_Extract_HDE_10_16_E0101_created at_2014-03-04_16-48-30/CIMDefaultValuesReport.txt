@@ -1,0 +1,100 @@
+[INFO] CREATED PROPERTY RegulatingControl, RULE APPLIED: CREATE RegulatingControl LINKTO DistributedGenerator USING RegulatingControl.RegulatingCondEq
+APPEND_ID 'DSG'
+
+	Element rdf:ID: _6097.571313174115780587#RegulatingControl#DSG,
+[INFO] Applied DMS default rule on property RegulatingControl.Mode
+	Element rdf:ID: _6097.571313174115780587#RegulatingControl#DSG; defaulted value: PGen
+[INFO] Applied DMS default rule on property DistributedGenerator.ID
+	Element rdf:ID: _6097.571313174115780587@_6097.571313174115780587.T.1; defaulted value: _6097.571313174115780587@_6097.571313174115780587.T.1
+[INFO] Applied DMS default rule on property DistributedGenerator.ID
+	Element rdf:ID: candidate_6097.571313174115780587@_6097.571313174115780587.T.1; defaulted value: candidate_6097.571313174115780587@_6097.571313174115780587.T.1
+[INFO] CREATED PROPERTY ControlSettings, RULE APPLIED: CREATE ControlSettings LINKTO RegulatingControl USING ControlSettings.RegCtrl
+WHERE RegulatingControl.ID.EndsWith('DSG')
+	Element rdf:ID: _6097.571313174115780587#RegulatingControl#DSG#ControlSettings,
+[INFO] Applied DMS default rule on property ControlSettings.CtrlSettingType
+	Element rdf:ID: _6097.571313174115780587#RegulatingControl#DSG#ControlSettings; defaulted value: Normal
+[INFO] Applied DMS default rule on property ControlSettings.ImagSlope
+	Element rdf:ID: _6097.571313174115780587#RegulatingControl#DSG#ControlSettings; defaulted value: 0
+[INFO] Applied DMS default rule on property ControlSettings.InitialDelay
+	Element rdf:ID: _6097.571313174115780587#RegulatingControl#DSG#ControlSettings; defaulted value: 30
+[INFO] Applied DMS default rule on property ControlSettings.MeasurementType
+	Element rdf:ID: _6097.571313174115780587#RegulatingControl#DSG#ControlSettings; defaulted value: ActivePower
+[INFO] Applied DMS default rule on property ControlSettings.RealSlope
+	Element rdf:ID: _6097.571313174115780587#RegulatingControl#DSG#ControlSettings; defaulted value: 0
+[INFO] Applied DMS default rule on property ControlSettings.SubsequentDelay
+	Element rdf:ID: _6097.571313174115780587#RegulatingControl#DSG#ControlSettings; defaulted value: 0
+[INFO] Applied DMS default rule on property ControlSettings.TargetRange
+	Element rdf:ID: _6097.571313174115780587#RegulatingControl#DSG#ControlSettings; defaulted value: 0
+[INFO] Applied DMS default rule on property ACLineSegment.SubstationPart
+	Element rdf:ID: _BusBar.1354285; defaulted value: 1
+	Element rdf:ID: _BusBar.1365937; defaulted value: 1
+[INFO] Applied DMS default rule on property Breaker.FailureRate
+	Element rdf:ID: _CircuitBreaker.81; defaulted value: 0.0016
+[INFO] Applied DMS default rule on property ConnectivityNode.FailureRate
+	Element rdf:ID: _HDE_10_16_S0001; defaulted value: 0.001
+	Element rdf:ID: _Node.6097.571313174115780587_UndergroundElectricLineSegment.9436305; defaulted value: 0.001
+	Element rdf:ID: _Node.CircuitBreaker.81_noconnection.1; defaulted value: 0.001
+	Element rdf:ID: _Node.ElecNet_Junctions.632993; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.351834; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.359745; defaulted value: 0.001
+[INFO] Applied DMS default rule on property ACLineSegment.CrossSection
+	Element rdf:ID: _BusBar.1354285; defaulted value: 16
+	Element rdf:ID: _BusBar.1365937; defaulted value: 16
+[INFO] Applied DMS default rule on property ACLineSegment.IsolationType
+	Element rdf:ID: _BusBar.1354285; defaulted value: APB
+	Element rdf:ID: _BusBar.1365937; defaulted value: APB
+[INFO] Applied DMS default rule on property ACLineSegment.ThermalConstantCool
+	Element rdf:ID: _BusBar.1354285; defaulted value: 1200
+	Element rdf:ID: _BusBar.1365937; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.16261; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.16267; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.38635; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.9436305; defaulted value: 1200
+[INFO] Applied DMS default rule on property ACLineSegment.ThermalConstantHeat
+	Element rdf:ID: _BusBar.1354285; defaulted value: 1200
+	Element rdf:ID: _BusBar.1365937; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.16261; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.16267; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.38635; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.9436305; defaulted value: 1200
+[INFO] Applied DMS default rule on property Jumper.BaseVoltage
+	Element rdf:ID: _BusBar.1354285_J; defaulted value: _BV.12000
+	Element rdf:ID: _BusBar.1365937_J; defaulted value: _BV.12000
+[INFO] Applied DMS default rule on property Jumper.Circuit
+	Element rdf:ID: _BusBar.1354285_J; defaulted value: _HDE_10_16_E0101
+	Element rdf:ID: _BusBar.1365937_J; defaulted value: _HDE_10_16_E0101
+[INFO] Applied DMS default rule on property Jumper.Description
+	Element rdf:ID: _BusBar.1354285_J; defaulted value: 30455:1
+	Element rdf:ID: _BusBar.1365937_J; defaulted value: 30455:1
+[INFO] Applied DMS default rule on property Jumper.EquipmentContainer
+	Element rdf:ID: _BusBar.1354285_J; defaulted value: _Station.30455
+	Element rdf:ID: _BusBar.1365937_J; defaulted value: _Station.30455
+[INFO] Applied DMS default rule on property Jumper.Location
+	Element rdf:ID: _BusBar.1354285_J; defaulted value: _30455.L
+	Element rdf:ID: _BusBar.1365937_J; defaulted value: _30455.L
+[INFO] Applied DMS default rule on property Jumper.MRID
+	Element rdf:ID: _BusBar.1354285_J; defaulted value: BusBar.1354285
+	Element rdf:ID: _BusBar.1365937_J; defaulted value: BusBar.1365937
+[INFO] Applied DMS default rule on property Jumper.Name
+	Element rdf:ID: _BusBar.1354285_J; defaulted value: 30455:1
+	Element rdf:ID: _BusBar.1365937_J; defaulted value: 30455:1
+[INFO] Applied DMS default rule on property Jumper.NormalOpen
+	Element rdf:ID: _BusBar.1354285_J; defaulted value: False
+	Element rdf:ID: _BusBar.1365937_J; defaulted value: False
+[INFO] Applied DMS default rule on property Jumper.NumberOfPhases
+	Element rdf:ID: _BusBar.1354285_J; defaulted value: 3
+	Element rdf:ID: _BusBar.1365937_J; defaulted value: 3
+[INFO] Applied DMS default rule on property Jumper.Phases
+	Element rdf:ID: _BusBar.1354285_J; defaulted value: ABC
+	Element rdf:ID: _BusBar.1365937_J; defaulted value: ABC
+[INFO] Applied DMS default rule on property Jumper.Private
+	Element rdf:ID: _BusBar.1354285_J; defaulted value: True
+	Element rdf:ID: _BusBar.1365937_J; defaulted value: True
+[INFO] Applied DMS default rule on property Jumper.RatedVoltage
+	Element rdf:ID: _BusBar.1354285_J; defaulted value: 12000
+	Element rdf:ID: _BusBar.1365937_J; defaulted value: 12000
+[INFO] Applied DMS default rule on property Terminal.ConductingEquipment
+	Element rdf:ID: _BusBar.1354285.T.1; defaulted value: _BusBar.1354285_J
+	Element rdf:ID: _BusBar.1354285.T.2; defaulted value: _BusBar.1354285_J
+	Element rdf:ID: _BusBar.1365937.T.1; defaulted value: _BusBar.1365937_J
+	Element rdf:ID: _BusBar.1365937.T.2; defaulted value: _BusBar.1365937_J

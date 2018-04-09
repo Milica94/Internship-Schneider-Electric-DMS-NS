@@ -1,0 +1,146 @@
+---------------------------------------------------------------------------------
+Circuit name : BOR_10_08_E0101
+Number of reported fatal errors: 0
+Number of reported errors: 1
+Number of reported warnings: 135
+---------------------------------------------------------------------------------
+Error with code: EQUIPMENT_LOCATION_WRONG was reported in following situations:
+	 - Invalid graphical connection of Line UndergroundElectricLineSegment.1589617 at one of its ends. Line and/or some elements connected to it have wrong graphical position. Line electrical connections are Station.9172 on the first end and Station.9172 on the second end.
+---------------------------------------------------------------------------------
+Warning with code: RATED_VOLTAGE_NOT_DEFINED was reported in following situations:
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.133473.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.1505.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.1545.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.1862.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.1863.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.19522.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.231105.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3231.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.367.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3890.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3891.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3892.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3897.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3900.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3920.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3922.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3924.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3925.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3927.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3929.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3932.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3933.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3934.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3935.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3936.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3937.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.3938.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.4192.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.4193.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.4983.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.5858.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.6072.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.6536.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.6844.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: HighVoltageSwitch.353454.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: HighVoltageSwitch.353768.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: HighVoltageSwitch.353881.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: HighVoltageSwitch.353883.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: HighVoltageSwitch.353891.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: HighVoltageSwitch.363622.FaultIndicator
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: HighVoltageSwitch.363623.FaultIndicator
+Warning with code: SUSPICIOUS_ENTITY_LOCATION_POSITIONPOINT_OR_LINE was reported in following situations:
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.670597426974051, Line id: UndergroundElectricLineSegment.5189247, Point Element ID: Station.9143
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.653748704299397, Line id: UndergroundElectricLineSegment.39511, Point Element ID: Station.9143
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.538736209235063, Line id: UndergroundElectricLineSegment.5189247, Point Element ID: Station.9376
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.598310049900134, Line id: UndergroundElectricLineSegment.34455, Point Element ID: Station.9062
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.564704706097579, Line id: UndergroundElectricLineSegment.9295528, Point Element ID: Station.9210
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.522241400585244, Line id: UndergroundElectricLineSegment.31431, Point Element ID: Station.9210
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.553888885122577, Line id: UndergroundElectricLineSegment.1515657, Point Element ID: Station.9210
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.458481991075021, Line id: UndergroundElectricLineSegment.18659, Point Element ID: Station.9172
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.886451401118174, Line id: UndergroundElectricLineSegment.7093150, Point Element ID: Station.9172
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.790481890147815, Line id: UndergroundElectricLineSegment.37619, Point Element ID: Station.9172
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.646226831925808, Line id: UndergroundElectricLineSegment.859300, Point Element ID: Station.9172
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.493934509902913, Line id: UndergroundElectricLineSegment.1521398, Point Element ID: Station.9362
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.469211022230419, Line id: UndergroundElectricLineSegment.500804, Point Element ID: Station.9362
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.407075231226407, Line id: UndergroundElectricLineSegment.31433, Point Element ID: Station.9428
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.411493860941423, Line id: UndergroundElectricLineSegment.39654, Point Element ID: Station.9428
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.630991309543268, Line id: UndergroundElectricLineSegment.918527, Point Element ID: Station.3014
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.723862547324285, Line id: UndergroundElectricLineSegment.967158, Point Element ID: Station.9059
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.234285819683448, Line id: UndergroundElectricLineSegment.9295527, Point Element ID: Station.7162
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.498478560443513, Line id: UndergroundElectricLineSegment.9295527, Point Element ID: Station.9428
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.499775597098093, Line id: UndergroundElectricLineSegment.1465119, Point Element ID: Station.9018
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.511062267580032, Line id: UndergroundElectricLineSegment.1465119, Point Element ID: Station.9211
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.507174288728905, Line id: UndergroundElectricLineSegment.7093143, Point Element ID: Station.9087
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.412503498442882, Line id: UndergroundElectricLineSegment.1465120, Point Element ID: Station.9115
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.495537042415766, Line id: UndergroundElectricLineSegment.1537415, Point Element ID: Station.9301
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.463334475090845, Line id: UndergroundElectricLineSegment.1521077, Point Element ID: Station.9195
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.590977937786185, Line id: UndergroundElectricLineSegment.7093138, Point Element ID: Station.9062
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.497868843553403, Line id: UndergroundElectricLineSegment.26131, Point Element ID: Station.9387
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.591556900322377, Line id: UndergroundElectricLineSegment.26132, Point Element ID: Station.9089
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.492577523140238, Line id: UndergroundElectricLineSegment.28134, Point Element ID: Station.9399
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.498907594900059, Line id: UndergroundElectricLineSegment.39518, Point Element ID: Station.9399
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.620607152454752, Line id: UndergroundElectricLineSegment.1537418, Point Element ID: Station.9172
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.490446344872965, Line id: UndergroundElectricLineSegment.9415697, Point Element ID: Station.5591
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.494999929300713, Line id: UndergroundElectricLineSegment.9415699, Point Element ID: Station.5591
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.366113792404864, Line id: UndergroundElectricLineSegment.9437162, Point Element ID: Station.7162
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.63361206113978, Line id: UndergroundElectricLineSegment.9502962, Point Element ID: Station.9213
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.630110908799493, Line id: UndergroundElectricLineSegment.1521077, Point Element ID: Station.9213
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.521404031514305, Line id: UndergroundElectricLineSegment.670103, Point Element ID: Station.6693
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.500170411356497, Line id: UndergroundElectricLineSegment.669466, Point Element ID: Station.6693
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.219543763593458, Line id: UndergroundElectricLineSegment.1465729, Point Element ID: Station.6759
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.118650782951042, Line id: UndergroundElectricLineSegment.1465120, Point Element ID: Station.6759
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.244672496289785, Line id: UndergroundElectricLineSegment.39655, Point Element ID: Station.6759
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.513989281876216, Line id: UndergroundElectricLineSegment.37573, Point Element ID: Station.9055
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.512323301669235, Line id: UndergroundElectricLineSegment.19816, Point Element ID: Station.9055
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.539516371656667, Line id: UndergroundElectricLineSegment.7093140, Point Element ID: Station.9095
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.550042715632108, Line id: UndergroundElectricLineSegment.1465115, Point Element ID: Station.9095
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.524189725120131, Line id: UndergroundElectricLineSegment.1465744, Point Element ID: Station.9151
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.530709571632424, Line id: UndergroundElectricLineSegment.1554708, Point Element ID: Station.9151
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.187599562285483, Line id: UndergroundElectricLineSegment.1589617, Point Element ID: Station.9172
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.506214307324629, Line id: UndergroundElectricLineSegment.39996, Point Element ID: Station.9196
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.513360895594799, Line id: UndergroundElectricLineSegment.37601, Point Element ID: Station.9196
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.510045219006151, Line id: UndergroundElectricLineSegment.36919, Point Element ID: Station.9321
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.511124071028585, Line id: UndergroundElectricLineSegment.18830, Point Element ID: Station.9321
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.421935142086792, Line id: UndergroundElectricLineSegment.7093149, Point Element ID: Station.9346
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.427519337171821, Line id: UndergroundElectricLineSegment.7093151, Point Element ID: Station.9346
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.511143053520288, Line id: UndergroundElectricLineSegment.7093152, Point Element ID: Station.9369
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.509964069318522, Line id: UndergroundElectricLineSegment.18662, Point Element ID: Station.9391
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.507449607536068, Line id: UndergroundElectricLineSegment.30244, Point Element ID: Station.9391
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.460606616126248, Line id: UndergroundElectricLineSegment.1521396, Point Element ID: Station.9161
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.478950606357993, Line id: UndergroundElectricLineSegment.18864, Point Element ID: Station.9161
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.622596845673653, Line id: UndergroundElectricLineSegment.1521396, Point Element ID: Station.9089
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.572352125209683, Line id: UndergroundElectricLineSegment.1521398, Point Element ID: Station.9089
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.438968734276024, Line id: UndergroundElectricLineSegment.920458, Point Element ID: Station.9166
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.500733178660725, Line id: UndergroundElectricLineSegment.967153, Point Element ID: Station.9374
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.505294070713911, Line id: UndergroundElectricLineSegment.15749, Point Element ID: Station.9216
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.46520964661558, Line id: UndergroundElectricLineSegment.15750, Point Element ID: Station.9216
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.512618423675232, Line id: UndergroundElectricLineSegment.504642, Point Element ID: Station.9216
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.510298177059004, Line id: UndergroundElectricLineSegment.7064712, Point Element ID: Station.9290
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.550645907263116, Line id: UndergroundElectricLineSegment.37449, Point Element ID: Station.9019
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.545404565241636, Line id: UndergroundElectricLineSegment.18747, Point Element ID: Station.9019
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.473429689774745, Line id: UndergroundElectricLineSegment.18747, Point Element ID: Station.9358
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.514611574995354, Line id: UndergroundElectricLineSegment.18829, Point Element ID: Station.9276
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.511221976056408, Line id: UndergroundElectricLineSegment.37572, Point Element ID: Station.9276
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.241897362765742, Line id: UndergroundElectricLineSegment.1554707, Point Element ID: Station.9088
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.224145484231236, Line id: UndergroundElectricLineSegment.40682, Point Element ID: Station.9088
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.530041987608874, Line id: UndergroundElectricLineSegment.762914, Point Element ID: Station.9356
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.521257771268952, Line id: UndergroundElectricLineSegment.40679, Point Element ID: Station.9356
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.58281759146389, Line id: UndergroundElectricLineSegment.36919, Point Element ID: Station.9211
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.584431393859498, Line id: UndergroundElectricLineSegment.1466411, Point Element ID: Station.9211
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.509760695531918, Line id: UndergroundElectricLineSegment.1465729, Point Element ID: Station.9211
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.481265314594416, Line id: UndergroundElectricLineSegment.39937, Point Element ID: Station.9380
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.545619531950736, Line id: UndergroundElectricLineSegment.32371, Point Element ID: Station.9171
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.505022855893793, Line id: UndergroundElectricLineSegment.40910, Point Element ID: Station.9171
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.540455326894191, Line id: UndergroundElectricLineSegment.39436, Point Element ID: Station.9171
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.508313556945093, Line id: UndergroundElectricLineSegment.23400, Point Element ID: Station.9406
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.509513093276418, Line id: UndergroundElectricLineSegment.18599, Point Element ID: Station.9406
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.607967831618651, Line id: UndergroundElectricLineSegment.39938, Point Element ID: Station.9116
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.586741791964693, Line id: UndergroundElectricLineSegment.1515657, Point Element ID: Station.9116
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.630964445428325, Line id: UndergroundElectricLineSegment.23402, Point Element ID: Station.9116
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.51401692626852, Line id: UndergroundElectricLineSegment.40910, Point Element ID: Station.9079
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.51477723455502, Line id: UndergroundElectricLineSegment.30246, Point Element ID: Station.9079
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.477829750864292, Line id: UndergroundElectricLineSegment.7064711, Point Element ID: Station.9166
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.487183632828842, Line id: UndergroundElectricLineSegment.1572638, Point Element ID: Station.9166
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.503304743196423, Line id: UndergroundElectricLineSegment.876594, Point Element ID: Station.9374
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.730054559459758, Line id: UndergroundElectricLineSegment.967153, Point Element ID: Station.9059

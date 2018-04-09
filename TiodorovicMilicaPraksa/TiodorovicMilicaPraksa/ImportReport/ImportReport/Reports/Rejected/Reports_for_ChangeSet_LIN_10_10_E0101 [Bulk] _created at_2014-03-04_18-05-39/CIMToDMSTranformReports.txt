@@ -1,0 +1,30 @@
+---------------------------------------------------------------------------------
+Circuit name : LIN_10_10_E0101
+Number of reported fatal errors: 0
+Number of reported errors: 0
+Number of reported warnings: 22
+---------------------------------------------------------------------------------
+Warning with code: RATED_VOLTAGE_NOT_DEFINED was reported in following situations:
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.169497.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.169519.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.169563.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.169564.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.169578.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.242036.Fuse
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.261938.Fuse
+Warning with code: SUSPICIOUS_ENTITY_LOCATION_POSITIONPOINT_OR_LINE was reported in following situations:
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.40914716882614, Line id: UndergroundElectricLineSegment.6584330, Point Element ID: Station.60073
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.71810582983986, Line id: UndergroundElectricLineSegment.6588414, Point Element ID: Station.60073
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 2.36976761483313, Line id: UndergroundElectricLineSegment.6591219, Point Element ID: Station.60073
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.22919479834905, Line id: UndergroundElectricLineSegment.7215845, Point Element ID: Station.60197
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 2.29189748458028, Line id: UndergroundElectricLineSegment.6595846, Point Element ID: Station.60113
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 2.33681828860141, Line id: UndergroundElectricLineSegment.6588813, Point Element ID: Station.60113
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 2.04249410268774, Line id: UndergroundElectricLineSegment.6590599, Point Element ID: Station.60143
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.00739047473652, Line id: UndergroundElectricLineSegment.6593088, Point Element ID: Station.60158
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.6430219082174, Line id: UndergroundElectricLineSegment.6587196, Point Element ID: Station.60086
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.29583208854591, Line id: UndergroundElectricLineSegment.6580532, Point Element ID: Station.60158
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.27573869514242, Line id: UndergroundElectricLineSegment.6588306, Point Element ID: Station.60158
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 2.11643865931036, Line id: UndergroundElectricLineSegment.6590599, Point Element ID: Station.60142
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 2.07247468249296, Line id: UndergroundElectricLineSegment.6585707, Point Element ID: Station.60142
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 2.19836754388835, Line id: UndergroundElectricLineSegment.6591434, Point Element ID: Station.60128
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 2.09839488674606, Line id: UndergroundElectricLineSegment.6592698, Point Element ID: Station.60128

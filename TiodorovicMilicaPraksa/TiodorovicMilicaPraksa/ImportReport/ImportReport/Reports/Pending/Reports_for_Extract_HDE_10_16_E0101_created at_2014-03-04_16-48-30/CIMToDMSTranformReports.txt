@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------
+Circuit name : HDE_10_16_E0101
+Number of reported fatal errors: 0
+Number of reported errors: 0
+Number of reported warnings: 2
+---------------------------------------------------------------------------------
+Warning with code: SUSPICIOUS_ENTITY_LOCATION_POSITIONPOINT_OR_LINE was reported in following situations:
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.809087399092917, Line id: UndergroundElectricLineSegment.16261, Point Element ID: Station.30455
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.437174044422759, Line id: UndergroundElectricLineSegment.9436305, Point Element ID: Station.30455

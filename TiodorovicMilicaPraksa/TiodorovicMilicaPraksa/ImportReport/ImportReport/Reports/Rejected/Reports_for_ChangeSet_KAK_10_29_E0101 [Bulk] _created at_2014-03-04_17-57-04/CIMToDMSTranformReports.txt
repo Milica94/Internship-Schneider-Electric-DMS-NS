@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------
+Circuit name : KAK_10_29_E0101
+Number of reported fatal errors: 0
+Number of reported errors: 0
+Number of reported warnings: 2
+---------------------------------------------------------------------------------
+Warning with code: RATED_VOLTAGE_NOT_DEFINED was reported in following situations:
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: FaultInterrupter.155627.Fuse
+Warning with code: SUSPICIOUS_ENTITY_LOCATION_POSITIONPOINT_OR_LINE was reported in following situations:
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.49871203301629, Line id: UndergroundElectricLineSegment.6214855, Point Element ID: Station.53623

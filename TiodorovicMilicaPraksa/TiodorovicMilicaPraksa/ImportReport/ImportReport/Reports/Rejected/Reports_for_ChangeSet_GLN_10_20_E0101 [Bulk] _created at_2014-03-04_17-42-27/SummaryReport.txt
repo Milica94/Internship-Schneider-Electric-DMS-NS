@@ -1,0 +1,48 @@
+Parsing CIM extract file.
+Creating CIM model according to CIM profile.
+Creating  changeset for Extract: CIMExport_201403031607_GLN20_1.xml
+
+Report date: 03-04-2014
+---------------------------------------------------------------------------------
+
+
+
+
+Changeset is not valid.
+UpdateResult report received for GIS changeset
+
+ResultType: NotValid.
+
+Error description for entity (CustomId = "Station.1235ProtGroup", Name = "Station.1235ProtGroup")
+Description: Invalid entity
+Error detail 1:
+ - Description: Protection group with globalId: 0x020100820000033f doesn't have protection equipment with primary key (index = 1)!
+ - PropertyId: PROTGROUP_PROTECTIONS
+ - Validation error code: InvalidProtectionGroupIndex
+Error detail 2:
+ - Description: Protection group with globalId: 0x020100820000033f has regulating controls {0x0201003c000218f8, 0x0201003c000218f9} with same index = "0".
+ - PropertyId: PROTGROUP_PROTECTIONS
+ - Validation error code: InvalidProtectionGroupIndex
+
+Error description for entity (CustomId = "HighVoltageSwitch.11992ProtEq", Name = "HighVoltageSwitch.11992ProtEq")
+Description: Invalid entity
+Error detail 1:
+ - Description: Reference type error. Type: 0 not in set of allowed reference types: { POTENTIALTR } where PROTECTEQP_PURPOSE = Voltage .
+ - PropertyId: PROTECTEQP_CONDEQP1
+ - Validation error code: InvalidReferenceType
+Error detail 2:
+ - Description: Range error. Property value: 0 outside of allowed range: (1, 65536) where type(PROTECTEQP_GROUP) <> 0 .
+ - PropertyId: PROTECTEQP_INDEX
+ - Validation error code: InvalidConditionalAbsoluteRange
+
+Error description for entity (CustomId = "HighVoltageSwitch.11993ProtEq", Name = "HighVoltageSwitch.11993ProtEq")
+Description: Invalid entity
+Error detail 1:
+ - Description: Reference type error. Type: 0 not in set of allowed reference types: { POTENTIALTR } where PROTECTEQP_PURPOSE = Voltage .
+ - PropertyId: PROTECTEQP_CONDEQP1
+ - Validation error code: InvalidReferenceType
+Error detail 2:
+ - Description: Range error. Property value: 0 outside of allowed range: (1, 65536) where type(PROTECTEQP_GROUP) <> 0 .
+ - PropertyId: PROTECTEQP_INDEX
+ - Validation error code: InvalidConditionalAbsoluteRange
+

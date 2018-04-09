@@ -1,0 +1,266 @@
+[INFO] Applied DMS default rule on property ACLineSegment.SubstationPart
+	Element rdf:ID: _BusBar.812155; defaulted value: 1
+	Element rdf:ID: _BusBar.816835; defaulted value: 1
+	Element rdf:ID: _BusBar.840676; defaulted value: 1
+	Element rdf:ID: _BusBar.859374; defaulted value: 1
+[INFO] Applied DMS default rule on property Disconnector.SubstationPart
+	Element rdf:ID: _DistributionTransformer.255519.DCN; defaulted value: 1
+[INFO] Applied DMS default rule on property EnergyConsumer.SubstationPart
+	Element rdf:ID: _EnergyConsumer.571313161105570822; defaulted value: 1
+[INFO] Applied DMS default rule on property FaultIndicator.SubstationPart
+	Element rdf:ID: _HighVoltageSwitch.198063.FaultIndicator; defaulted value: 1
+	Element rdf:ID: _HighVoltageSwitch.200973.FaultIndicator; defaulted value: 1
+	Element rdf:ID: _HighVoltageSwitch.203674.FaultIndicator; defaulted value: 1
+[INFO] Applied DMS default rule on property Fuse.SubstationPart
+	Element rdf:ID: _FaultInterrupter.155626.Fuse; defaulted value: 1
+[INFO] Applied DMS default rule on property GroundImpedance.SubstationPart
+	Element rdf:ID: _DistributionTransformer.255519.GroundImpedance; defaulted value: 1
+[INFO] Applied DMS default rule on property LoadBreakSwitch.SubstationPart
+	Element rdf:ID: _FaultInterrupter.155626; defaulted value: 1
+	Element rdf:ID: _HighVoltageSwitch.198063; defaulted value: 1
+	Element rdf:ID: _HighVoltageSwitch.200973; defaulted value: 1
+	Element rdf:ID: _HighVoltageSwitch.203674; defaulted value: 1
+[INFO] Applied DMS default rule on property PowerTransformer.SubstationPart
+	Element rdf:ID: _DistributionTransformer.255519; defaulted value: 1
+[INFO] Applied DMS default rule on property TransformerWinding.SubstationPart
+	Element rdf:ID: _DistributionTransformer.255519.TW.1; defaulted value: 1
+	Element rdf:ID: _DistributionTransformer.255519.TW.2; defaulted value: 1
+[INFO] Applied DMS default rule on property Disconnector.RatedVoltage
+	Element rdf:ID: _DistributionTransformer.255519.DCN; defaulted value: 400
+[INFO] Applied DMS default rule on property Disconnector.BaseVoltage
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: _BV.400
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: _BV.12000
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: _BV.12000
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: _BV.12000
+[INFO] Applied DMS default rule on property Disconnector.BreakingCurrent
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: 499
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: 499
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: 499
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: 499
+[INFO] Applied DMS default rule on property Disconnector.Circuit
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: _KAK_10_08_E0101
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: _KAK_10_08_E0101
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: _KAK_10_08_E0101
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: _KAK_10_08_E0101
+[INFO] Applied DMS default rule on property Disconnector.MRID
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: DistributionTransformer.255519.DCN.Disconnector
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: HighVoltageSwitch.198063.Disconnector
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: HighVoltageSwitch.200973.Disconnector
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: HighVoltageSwitch.203674.Disconnector
+[INFO] Applied DMS default rule on property Disconnector.Name
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: T1 LSP Adsk. Jord
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: KAK a Adsk. Jord
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: 53623 LILLE KASTRUP KOBLINGSSTATION B Adsk. Jord
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: 53624 LILLE KASTRUP KOBLINGSSTATION A Adsk. Jord
+[INFO] Applied DMS default rule on property Disconnector.NormalOpen
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: True
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: True
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: True
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: True
+[INFO] Applied DMS default rule on property Disconnector.NumberOfPhases
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: 3
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: 3
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: 3
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: 3
+[INFO] Applied DMS default rule on property Disconnector.Phases
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: ABC
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: ABC
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: ABC
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: ABC
+[INFO] Applied DMS default rule on property Disconnector.Private
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: False
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: False
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: False
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: False
+[INFO] Applied DMS default rule on property Disconnector.RatedCurrent
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: 9999
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: 9999
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: 9999
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: 9999
+[INFO] Applied DMS default rule on property Disconnector.RatedVoltage
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: 400
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: 12000
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: 12000
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: 12000
+[INFO] Applied DMS default rule on property Disconnector.ReactiveBreakingCurrent
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: 499
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: 499
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: 499
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: 499
+[INFO] Applied DMS default rule on property Disconnector.SubstationPart
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: 1
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: 1
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: 1
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: 1
+[INFO] Applied DMS default rule on property Disconnector.SwitchType
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: ELA
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: ELA
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: ELA
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: ELA
+[INFO] Applied DMS default rule on property GroundNode.ConnectivityNodeContainer
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.GN; defaulted value: _Station.53624
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.GN; defaulted value: _Station.53624
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.GN; defaulted value: _Station.53624
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.GN; defaulted value: _Station.53623
+[INFO] Applied DMS default rule on property GroundNode.MRID
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.GN; defaulted value: DistributionTransformer.255519.DCN.Disconnector.GroundNode
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.GN; defaulted value: HighVoltageSwitch.198063.Disconnector.GroundNode
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.GN; defaulted value: HighVoltageSwitch.200973.Disconnector.GroundNode
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.GN; defaulted value: HighVoltageSwitch.203674.Disconnector.GroundNode
+[INFO] Applied DMS default rule on property GroundNode.Name
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.GN; defaulted value: T1 LSP
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.GN; defaulted value: KAK a
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.GN; defaulted value: 53623 LILLE KASTRUP KOBLINGSSTATION B
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.GN; defaulted value: 53624 LILLE KASTRUP KOBLINGSSTATION A
+[INFO] Applied DMS default rule on property Terminal.ConductingEquipment
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3; defaulted value: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.T; defaulted value: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3; defaulted value: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.T; defaulted value: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3; defaulted value: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.T; defaulted value: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3; defaulted value: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.T; defaulted value: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D
+[INFO] Applied DMS default rule on property Terminal.ConnectivityNode
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3; defaulted value: _Node.DistributionTransformer.255519_BusBar.823710
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.T; defaulted value: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.GN
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3; defaulted value: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicator
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.T; defaulted value: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.GN
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3; defaulted value: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicator
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.T; defaulted value: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.GN
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3; defaulted value: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicator
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.T; defaulted value: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.GN
+[INFO] Applied DMS default rule on property Terminal.MRID
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3; defaulted value: DistributionTransformer.255519.DCN.T1
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.T; defaulted value: DistributionTransformer.255519.DCN.T2
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3; defaulted value: HighVoltageSwitch.198063.T1
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.T; defaulted value: HighVoltageSwitch.198063.T2
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3; defaulted value: HighVoltageSwitch.200973.T1
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.T; defaulted value: HighVoltageSwitch.200973.T2
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3; defaulted value: HighVoltageSwitch.203674.T1
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.T; defaulted value: HighVoltageSwitch.203674.T2
+[INFO] Applied DMS default rule on property TransformerWinding.NumberOfTaps
+	Element rdf:ID: _DistributionTransformer.255519.TW.2; defaulted value: 5
+[INFO] Applied DMS default rule on property Breaker.FailureRate
+	Element rdf:ID: _CircuitBreaker.8986; defaulted value: 0.0016
+[INFO] Applied DMS default rule on property Disconnector.FailureRate
+	Element rdf:ID: _DistributionTransformer.255519.DCN; defaulted value: 0.0016
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710SC1.T3.D; defaulted value: 0.0016
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicatorSC1.T3.D; defaulted value: 0.0016
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicatorSC1.T3.D; defaulted value: 0.0016
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicatorSC1.T3.D; defaulted value: 0.0016
+[INFO] Applied DMS default rule on property Fuse.FailureRate
+	Element rdf:ID: _FaultInterrupter.155626.Fuse; defaulted value: 0.0016
+[INFO] Applied DMS default rule on property ConnectivityNode.FailureRate
+	Element rdf:ID: _KAK_10_08_S0001; defaulted value: 0.001
+	Element rdf:ID: _Node.CircuitBreaker.8986_noconnection.1; defaulted value: 0.001
+	Element rdf:ID: _Node.DistributionTransformer.255519.DCN_BusBar.823710; defaulted value: 0.001
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.812155; defaulted value: 0.001
+	Element rdf:ID: _Node.DistributionTransformer.255519_BusBar.823710; defaulted value: 0.001
+	Element rdf:ID: _Node.DistributionTransformer.255519_DistributionTransformer.255519.GroundImpedance; defaulted value: 0.001
+	Element rdf:ID: _Node.ElecNet_Junctions.382760; defaulted value: 0.001
+	Element rdf:ID: _Node.FaultInterrupter.155626_BusBar.812155; defaulted value: 0.001
+	Element rdf:ID: _Node.FaultInterrupter.155626_BusBar.859374; defaulted value: 0.001
+	Element rdf:ID: _Node.FaultInterrupter.155626_FaultInterrupter.155626.Fuse; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_BusBar.816835; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_HighVoltageSwitch.198063.FaultIndicator; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.198063_UndergroundElectricLineSegment.6272754; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_BusBar.840676; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_HighVoltageSwitch.200973.FaultIndicator; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.200973_UndergroundElectricLineSegment.6251551; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_BusBar.788084; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicator; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.203674_UndergroundElectricLineSegment.6251551; defaulted value: 0.001
+[INFO] Applied DMS default rule on property ACLineSegment.CrossSection
+	Element rdf:ID: _BusBar.812155; defaulted value: 16
+	Element rdf:ID: _BusBar.816835; defaulted value: 16
+	Element rdf:ID: _BusBar.840676; defaulted value: 16
+	Element rdf:ID: _BusBar.859374; defaulted value: 16
+[INFO] Applied DMS default rule on property ACLineSegment.IsolationType
+	Element rdf:ID: _BusBar.812155; defaulted value: APB
+	Element rdf:ID: _BusBar.816835; defaulted value: APB
+	Element rdf:ID: _BusBar.840676; defaulted value: APB
+	Element rdf:ID: _BusBar.859374; defaulted value: APB
+[INFO] Applied DMS default rule on property ACLineSegment.ThermalConstantCool
+	Element rdf:ID: _BusBar.812155; defaulted value: 1200
+	Element rdf:ID: _BusBar.816835; defaulted value: 1200
+	Element rdf:ID: _BusBar.840676; defaulted value: 1200
+	Element rdf:ID: _BusBar.859374; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.6251551; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.6272754; defaulted value: 1200
+[INFO] Applied DMS default rule on property ACLineSegment.ThermalConstantHeat
+	Element rdf:ID: _BusBar.812155; defaulted value: 1200
+	Element rdf:ID: _BusBar.816835; defaulted value: 1200
+	Element rdf:ID: _BusBar.840676; defaulted value: 1200
+	Element rdf:ID: _BusBar.859374; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.6251551; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.6272754; defaulted value: 1200
+[INFO] Applied DMS default rule on property Jumper.BaseVoltage
+	Element rdf:ID: _BusBar.812155_J; defaulted value: _BV.12000
+	Element rdf:ID: _BusBar.816835_J; defaulted value: _BV.12000
+	Element rdf:ID: _BusBar.840676_J; defaulted value: _BV.12000
+	Element rdf:ID: _BusBar.859374_J; defaulted value: _BV.12000
+[INFO] Applied DMS default rule on property Jumper.Circuit
+	Element rdf:ID: _BusBar.812155_J; defaulted value: _KAK_10_08_E0101
+	Element rdf:ID: _BusBar.816835_J; defaulted value: _KAK_10_08_E0101
+	Element rdf:ID: _BusBar.840676_J; defaulted value: _KAK_10_08_E0101
+	Element rdf:ID: _BusBar.859374_J; defaulted value: _KAK_10_08_E0101
+[INFO] Applied DMS default rule on property Jumper.Description
+	Element rdf:ID: _BusBar.812155_J; defaulted value: 53624:1
+	Element rdf:ID: _BusBar.816835_J; defaulted value: 53624:1
+	Element rdf:ID: _BusBar.840676_J; defaulted value: 53624:1
+	Element rdf:ID: _BusBar.859374_J; defaulted value: 53624:1
+[INFO] Applied DMS default rule on property Jumper.EquipmentContainer
+	Element rdf:ID: _BusBar.812155_J; defaulted value: _Station.53624
+	Element rdf:ID: _BusBar.816835_J; defaulted value: _Station.53624
+	Element rdf:ID: _BusBar.840676_J; defaulted value: _Station.53624
+	Element rdf:ID: _BusBar.859374_J; defaulted value: _Station.53624
+[INFO] Applied DMS default rule on property Jumper.Location
+	Element rdf:ID: _BusBar.812155_J; defaulted value: _53624.L
+	Element rdf:ID: _BusBar.816835_J; defaulted value: _53624.L
+	Element rdf:ID: _BusBar.840676_J; defaulted value: _53624.L
+	Element rdf:ID: _BusBar.859374_J; defaulted value: _53624.L
+[INFO] Applied DMS default rule on property Jumper.MRID
+	Element rdf:ID: _BusBar.812155_J; defaulted value: BusBar.812155
+	Element rdf:ID: _BusBar.816835_J; defaulted value: BusBar.816835
+	Element rdf:ID: _BusBar.840676_J; defaulted value: BusBar.840676
+	Element rdf:ID: _BusBar.859374_J; defaulted value: BusBar.859374
+[INFO] Applied DMS default rule on property Jumper.Name
+	Element rdf:ID: _BusBar.812155_J; defaulted value: 53624:1
+	Element rdf:ID: _BusBar.816835_J; defaulted value: 53624:1
+	Element rdf:ID: _BusBar.840676_J; defaulted value: 53624:1
+	Element rdf:ID: _BusBar.859374_J; defaulted value: 53624:1
+[INFO] Applied DMS default rule on property Jumper.NormalOpen
+	Element rdf:ID: _BusBar.812155_J; defaulted value: False
+	Element rdf:ID: _BusBar.816835_J; defaulted value: False
+	Element rdf:ID: _BusBar.840676_J; defaulted value: False
+	Element rdf:ID: _BusBar.859374_J; defaulted value: False
+[INFO] Applied DMS default rule on property Jumper.NumberOfPhases
+	Element rdf:ID: _BusBar.812155_J; defaulted value: 3
+	Element rdf:ID: _BusBar.816835_J; defaulted value: 3
+	Element rdf:ID: _BusBar.840676_J; defaulted value: 3
+	Element rdf:ID: _BusBar.859374_J; defaulted value: 3
+[INFO] Applied DMS default rule on property Jumper.Phases
+	Element rdf:ID: _BusBar.812155_J; defaulted value: ABC
+	Element rdf:ID: _BusBar.816835_J; defaulted value: ABC
+	Element rdf:ID: _BusBar.840676_J; defaulted value: ABC
+	Element rdf:ID: _BusBar.859374_J; defaulted value: ABC
+[INFO] Applied DMS default rule on property Jumper.Private
+	Element rdf:ID: _BusBar.812155_J; defaulted value: False
+	Element rdf:ID: _BusBar.816835_J; defaulted value: False
+	Element rdf:ID: _BusBar.840676_J; defaulted value: False
+	Element rdf:ID: _BusBar.859374_J; defaulted value: False
+[INFO] Applied DMS default rule on property Jumper.RatedVoltage
+	Element rdf:ID: _BusBar.812155_J; defaulted value: 12000
+	Element rdf:ID: _BusBar.816835_J; defaulted value: 12000
+	Element rdf:ID: _BusBar.840676_J; defaulted value: 12000
+	Element rdf:ID: _BusBar.859374_J; defaulted value: 12000
+[INFO] Applied DMS default rule on property Terminal.ConductingEquipment
+	Element rdf:ID: _BusBar.812155.T.1; defaulted value: _BusBar.812155_J
+	Element rdf:ID: _BusBar.812155.T.2; defaulted value: _BusBar.812155_J
+	Element rdf:ID: _BusBar.816835.T.1; defaulted value: _BusBar.816835_J
+	Element rdf:ID: _BusBar.816835.T.2; defaulted value: _BusBar.816835_J
+	Element rdf:ID: _BusBar.840676.T.1; defaulted value: _BusBar.840676_J
+	Element rdf:ID: _BusBar.840676.T.2; defaulted value: _BusBar.840676_J
+	Element rdf:ID: _BusBar.859374.T.1; defaulted value: _BusBar.859374_J
+	Element rdf:ID: _BusBar.859374.T.2; defaulted value: _BusBar.859374_J

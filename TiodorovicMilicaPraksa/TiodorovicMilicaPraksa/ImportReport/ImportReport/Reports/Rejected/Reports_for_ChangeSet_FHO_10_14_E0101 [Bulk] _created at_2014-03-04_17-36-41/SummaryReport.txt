@@ -1,0 +1,30 @@
+Parsing CIM extract file.
+Creating CIM model according to CIM profile.
+Creating  changeset for Extract: CIMExport_201403031607_FHO14_1.xml
+
+Report date: 03-04-2014
+---------------------------------------------------------------------------------
+
+
+
+
+Changeset is not valid.
+UpdateResult report received for GIS changeset
+
+
+ResultType: NotValid.
+
+
+
+Error description for entity (CustomId = "4F67C2B6C2D498427908B5938AA62F2A3E7E5E91", Name = "REY_GIS_200_10kV_8700A")
+
+Description: Invalid entity
+
+Error detail 1:
+
+ - Description: Range error. Property value: 8700 outside of allowed range: (0, 500).
+
+ - PropertyId: DISCONNECTORC_BREAKINGI
+
+ - Validation error code: InvalidConditionalAbsoluteRange
+

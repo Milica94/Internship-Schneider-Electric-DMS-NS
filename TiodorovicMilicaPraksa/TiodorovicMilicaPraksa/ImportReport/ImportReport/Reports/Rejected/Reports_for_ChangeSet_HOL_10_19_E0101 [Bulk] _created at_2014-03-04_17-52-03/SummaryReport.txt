@@ -1,0 +1,23 @@
+Parsing CIM extract file.
+Creating CIM model according to CIM profile.
+Creating  changeset for Extract: CIMExport_201403031607_HOL19_1.xml
+
+Report date: 03-04-2014
+---------------------------------------------------------------------------------
+
+
+
+
+Changeset is not valid.
+UpdateResult report received for GIS changeset
+
+ResultType: NotValid.
+
+Error description for entity (CustomId = "DistributionTransformer.5199", Name = "T1", Alias = "1576")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the primary winding of the power transformer: 9.4kV, (POWERTR2W, globalId: 0x020100230000b462) does not correspond to the voltage level limits in the particular network area: (9.6, 11).
+ - Hint: Rated voltage of the transformer winding; rated voltage of the supply line; equipment connectivity
+ - PropertyId: POWERTRC2W_W1RATEDU
+ - Validation error code: InvalidVoltageCompatibility
+

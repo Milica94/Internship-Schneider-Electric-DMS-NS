@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------
+Circuit name : OAT_10_17_E0101
+Number of reported fatal errors: 0
+Number of reported errors: 0
+Number of reported warnings: 2
+---------------------------------------------------------------------------------
+Warning with code: SUSPICIOUS_ENTITY_LOCATION_POSITIONPOINT_OR_LINE was reported in following situations:
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 4.95237862574173, Line id: UndergroundElectricLineSegment.6810084, Point Element ID: Station.52462
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 4.80632015243819, Line id: UndergroundElectricLineSegment.6226151, Point Element ID: Station.52462

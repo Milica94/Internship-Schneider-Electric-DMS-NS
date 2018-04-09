@@ -1,0 +1,90 @@
+[INFO] Applied DMS default rule on property ACLineSegment.SubstationPart
+	Element rdf:ID: _BusBar.1371413; defaulted value: 1
+	Element rdf:ID: _BusBar.1371414; defaulted value: 1
+[INFO] Applied DMS default rule on property Disconnector.SubstationPart
+	Element rdf:ID: _HighVoltageSwitch.363907; defaulted value: 1
+	Element rdf:ID: _HighVoltageSwitch.363908; defaulted value: 1
+[INFO] Applied DMS default rule on property FaultIndicator.SubstationPart
+	Element rdf:ID: _HighVoltageSwitch.363907.FaultIndicator; defaulted value: 1
+	Element rdf:ID: _HighVoltageSwitch.363908.FaultIndicator; defaulted value: 1
+[INFO] Applied DMS default rule on property Disconnector.ThermalCurrent
+	Element rdf:ID: _HighVoltageSwitch.363907; defaulted value: 1000
+	Element rdf:ID: _HighVoltageSwitch.363908; defaulted value: 1000
+[INFO] Applied DMS default rule on property Breaker.FailureRate
+	Element rdf:ID: _CircuitBreaker.26945; defaulted value: 0.0016
+	Element rdf:ID: _CircuitBreaker.26946; defaulted value: 0.0016
+[INFO] Applied DMS default rule on property Disconnector.FailureRate
+	Element rdf:ID: _HighVoltageSwitch.363907; defaulted value: 0.0016
+	Element rdf:ID: _HighVoltageSwitch.363908; defaulted value: 0.0016
+[INFO] Applied DMS default rule on property ConnectivityNode.FailureRate
+	Element rdf:ID: _HDE_10_98_S0001; defaulted value: 0.001
+	Element rdf:ID: _HDE_10_99_S0001; defaulted value: 0.001
+	Element rdf:ID: _Node.CircuitBreaker.26945_BusBar.1371410; defaulted value: 0.001
+	Element rdf:ID: _Node.CircuitBreaker.26946_BusBar.1371411; defaulted value: 0.001
+	Element rdf:ID: _Node.ElecNet_Junctions.695534; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.363907_BusBar.1371413; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.363907_HighVoltageSwitch.363907.FaultIndicator; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.363907_UndergroundElectricLineSegment.9521825; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.363908_BusBar.1371414; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.363908_HighVoltageSwitch.363908.FaultIndicator; defaulted value: 0.001
+	Element rdf:ID: _Node.HighVoltageSwitch.363908_UndergroundElectricLineSegment.9521826; defaulted value: 0.001
+[INFO] Applied DMS default rule on property ACLineSegment.FailureRate
+	Element rdf:ID: _UndergroundElectricLineSegment.9521825; defaulted value: 5.4E-05
+	Element rdf:ID: _UndergroundElectricLineSegment.9521826; defaulted value: 5.4E-05
+[INFO] Applied DMS default rule on property ACLineSegment.CrossSection
+	Element rdf:ID: _BusBar.1371413; defaulted value: 16
+	Element rdf:ID: _BusBar.1371414; defaulted value: 16
+[INFO] Applied DMS default rule on property ACLineSegment.IsolationType
+	Element rdf:ID: _BusBar.1371413; defaulted value: APB
+	Element rdf:ID: _BusBar.1371414; defaulted value: APB
+[INFO] Applied DMS default rule on property ACLineSegment.ThermalConstantCool
+	Element rdf:ID: _BusBar.1371413; defaulted value: 1200
+	Element rdf:ID: _BusBar.1371414; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.9521825; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.9521826; defaulted value: 1200
+[INFO] Applied DMS default rule on property ACLineSegment.ThermalConstantHeat
+	Element rdf:ID: _BusBar.1371413; defaulted value: 1200
+	Element rdf:ID: _BusBar.1371414; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.9521825; defaulted value: 1200
+	Element rdf:ID: _UndergroundElectricLineSegment.9521826; defaulted value: 1200
+[INFO] Applied DMS default rule on property Jumper.BaseVoltage
+	Element rdf:ID: _BusBar.1371413_J; defaulted value: _BV.12000
+	Element rdf:ID: _BusBar.1371414_J; defaulted value: _BV.12000
+[INFO] Applied DMS default rule on property Jumper.Circuit
+	Element rdf:ID: _BusBar.1371413_J; defaulted value: _HDE_10_98_E0101
+	Element rdf:ID: _BusBar.1371414_J; defaulted value: _HDE_10_98_E0101
+[INFO] Applied DMS default rule on property Jumper.Description
+	Element rdf:ID: _BusBar.1371413_J; defaulted value: 32071:0
+	Element rdf:ID: _BusBar.1371414_J; defaulted value: 32071:0
+[INFO] Applied DMS default rule on property Jumper.EquipmentContainer
+	Element rdf:ID: _BusBar.1371413_J; defaulted value: _Station.32071
+	Element rdf:ID: _BusBar.1371414_J; defaulted value: _Station.32071
+[INFO] Applied DMS default rule on property Jumper.Location
+	Element rdf:ID: _BusBar.1371413_J; defaulted value: _32071.L
+	Element rdf:ID: _BusBar.1371414_J; defaulted value: _32071.L
+[INFO] Applied DMS default rule on property Jumper.MRID
+	Element rdf:ID: _BusBar.1371413_J; defaulted value: BusBar.1371413
+	Element rdf:ID: _BusBar.1371414_J; defaulted value: BusBar.1371414
+[INFO] Applied DMS default rule on property Jumper.Name
+	Element rdf:ID: _BusBar.1371413_J; defaulted value: 32071:0
+	Element rdf:ID: _BusBar.1371414_J; defaulted value: 32071:0
+[INFO] Applied DMS default rule on property Jumper.NormalOpen
+	Element rdf:ID: _BusBar.1371413_J; defaulted value: False
+	Element rdf:ID: _BusBar.1371414_J; defaulted value: False
+[INFO] Applied DMS default rule on property Jumper.NumberOfPhases
+	Element rdf:ID: _BusBar.1371413_J; defaulted value: 3
+	Element rdf:ID: _BusBar.1371414_J; defaulted value: 3
+[INFO] Applied DMS default rule on property Jumper.Phases
+	Element rdf:ID: _BusBar.1371413_J; defaulted value: ABC
+	Element rdf:ID: _BusBar.1371414_J; defaulted value: ABC
+[INFO] Applied DMS default rule on property Jumper.Private
+	Element rdf:ID: _BusBar.1371413_J; defaulted value: False
+	Element rdf:ID: _BusBar.1371414_J; defaulted value: False
+[INFO] Applied DMS default rule on property Jumper.RatedVoltage
+	Element rdf:ID: _BusBar.1371413_J; defaulted value: 12000
+	Element rdf:ID: _BusBar.1371414_J; defaulted value: 12000
+[INFO] Applied DMS default rule on property Terminal.ConductingEquipment
+	Element rdf:ID: _BusBar.1371413.T.1; defaulted value: _BusBar.1371413_J
+	Element rdf:ID: _BusBar.1371413.T.2; defaulted value: _BusBar.1371413_J
+	Element rdf:ID: _BusBar.1371414.T.1; defaulted value: _BusBar.1371414_J
+	Element rdf:ID: _BusBar.1371414.T.2; defaulted value: _BusBar.1371414_J

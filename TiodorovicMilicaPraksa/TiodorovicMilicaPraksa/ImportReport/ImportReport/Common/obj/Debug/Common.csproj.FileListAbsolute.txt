@@ -1,0 +1,5 @@
+D:\milica\Praksa\ImportReport\ImportReport\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\milica\Praksa\ImportReport\ImportReport\Common\bin\Debug\Common.dll
+D:\milica\Praksa\ImportReport\ImportReport\Common\bin\Debug\Common.pdb
+D:\milica\Praksa\ImportReport\ImportReport\Common\obj\Debug\Common.dll
+D:\milica\Praksa\ImportReport\ImportReport\Common\obj\Debug\Common.pdb

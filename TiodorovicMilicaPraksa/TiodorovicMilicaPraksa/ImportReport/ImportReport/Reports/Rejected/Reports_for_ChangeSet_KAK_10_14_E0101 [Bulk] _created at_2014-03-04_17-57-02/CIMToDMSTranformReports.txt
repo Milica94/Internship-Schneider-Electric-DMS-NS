@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------
+Circuit name : KAK_10_14_E0101
+Number of reported fatal errors: 0
+Number of reported errors: 0
+Number of reported warnings: 4
+---------------------------------------------------------------------------------
+Warning with code: SUSPICIOUS_ENTITY_LOCATION_POSITIONPOINT_OR_LINE was reported in following situations:
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.169580107089532, Line id: UndergroundElectricLineSegment.9392162, Point Element ID: Station.53695
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.165947681534978, Line id: UndergroundElectricLineSegment.9392161, Point Element ID: Station.53695
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.125309315681615, Line id: UndergroundElectricLineSegment.9392161, Point Element ID: Station.53696
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.15215800886425, Line id: UndergroundElectricLineSegment.9392163, Point Element ID: Station.53696

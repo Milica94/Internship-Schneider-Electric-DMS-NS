@@ -1,0 +1,2 @@
+Stitching node FOUND in model with customID KNU_10_07_S0001 and name 'Hostrupsvej'.
+Stitching node type: FeederHeadAndHVSubstation, node customID: KNU_10_07_S0001, node description: ''

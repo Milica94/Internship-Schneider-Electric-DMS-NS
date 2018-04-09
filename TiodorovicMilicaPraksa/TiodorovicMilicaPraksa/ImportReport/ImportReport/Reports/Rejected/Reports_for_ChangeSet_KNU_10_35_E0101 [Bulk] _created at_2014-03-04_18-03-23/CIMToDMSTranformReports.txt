@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------------
+Circuit name : KNU_10_35_E0101
+Number of reported fatal errors: 0
+Number of reported errors: 0
+Number of reported warnings: 8
+---------------------------------------------------------------------------------
+Warning with code: SUSPICIOUS_ENTITY_LOCATION_POSITIONPOINT_OR_LINE was reported in following situations:
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.25874442922871, Line id: UndergroundElectricLineSegment.6595428, Point Element ID: Station.60274
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.69161604241589, Line id: UndergroundElectricLineSegment.6595428, Point Element ID: Station.60278
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 2.10856173372378, Line id: UndergroundElectricLineSegment.6583467, Point Element ID: Station.60278
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.79075779325498, Line id: UndergroundElectricLineSegment.6588172, Point Element ID: Station.60278
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.51143598771684, Line id: UndergroundElectricLineSegment.6593922, Point Element ID: Station.60265
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.291305583158521, Line id: UndergroundElectricLineSegment.6578887, Point Element ID: Station.60265
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.920709677001671, Line id: UndergroundElectricLineSegment.6588401, Point Element ID: Station.60265
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.486351753666573, Line id: UndergroundElectricLineSegment.9285781, Point Element ID: Station.60408

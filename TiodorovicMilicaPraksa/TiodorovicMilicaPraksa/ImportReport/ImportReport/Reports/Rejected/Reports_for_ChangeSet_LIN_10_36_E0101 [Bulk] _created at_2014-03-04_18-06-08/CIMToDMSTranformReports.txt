@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------------
+Circuit name : LIN_10_36_E0101
+Number of reported fatal errors: 0
+Number of reported errors: 0
+Number of reported warnings: 7
+---------------------------------------------------------------------------------
+Warning with code: SUSPICIOUS_ENTITY_LOCATION_POSITIONPOINT_OR_LINE was reported in following situations:
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.745424379818, Line id: UndergroundElectricLineSegment.6594650, Point Element ID: Station.60271
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.54674003213298, Line id: UndergroundElectricLineSegment.6583450, Point Element ID: Station.60058
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.4127023400114, Line id: UndergroundElectricLineSegment.6584677, Point Element ID: Station.60052
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.52868459636316, Line id: UndergroundElectricLineSegment.6580643, Point Element ID: Station.60058
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.70625586702613, Line id: UndergroundElectricLineSegment.6578956, Point Element ID: Station.60271
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.903376892128143, Line id: UndergroundElectricLineSegment.6582961, Point Element ID: Station.60084
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 0.657162403665068, Line id: UndergroundElectricLineSegment.6578891, Point Element ID: Station.60084

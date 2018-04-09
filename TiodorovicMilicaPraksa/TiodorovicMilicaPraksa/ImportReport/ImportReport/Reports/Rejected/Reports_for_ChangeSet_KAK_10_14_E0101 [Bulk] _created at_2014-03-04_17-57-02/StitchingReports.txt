@@ -1,0 +1,4 @@
+Stitching node FOUND in model with customID KAK_10_14_S0001 and name 'KLH A'.
+Stitching node type: FeederHeadAndHVSubstation, node customID: KAK_10_14_S0001, node description: ''
+Stitching node FOUND in model with customID KAK_10_28_S0001 and name 'KLH B'.
+Stitching node type: FeederHeadAndHVSubstation, node customID: KAK_10_28_S0001, node description: ''

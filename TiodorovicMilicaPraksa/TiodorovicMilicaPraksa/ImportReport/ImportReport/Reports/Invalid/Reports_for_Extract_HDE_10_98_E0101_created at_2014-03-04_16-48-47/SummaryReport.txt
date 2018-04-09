@@ -1,0 +1,2 @@
+Parsing CIM extract file.
+Creating CIM model according to CIM profile.

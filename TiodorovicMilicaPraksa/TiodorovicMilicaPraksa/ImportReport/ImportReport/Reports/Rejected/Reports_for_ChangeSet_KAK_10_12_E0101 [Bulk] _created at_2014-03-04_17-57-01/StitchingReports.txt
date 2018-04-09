@@ -1,0 +1,4 @@
+Stitching node FOUND in model with customID KAK_10_12_S0001 and name 'Lufthavn Metro Kabel 2'.
+Stitching node type: FeederHeadAndHVSubstation, node customID: KAK_10_12_S0001, node description: ''
+Stitching node FOUND in model with customID KAK_10_13_S0001 and name 'Lufthavn Metro Kabel 1'.
+Stitching node type: FeederHeadAndHVSubstation, node customID: KAK_10_13_S0001, node description: ''

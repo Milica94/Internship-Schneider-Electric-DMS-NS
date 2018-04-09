@@ -1,0 +1,2 @@
+Stitching node FOUND in model with customID FHO_10_14_S0001 and name 'Frederiksberg Hospital'.
+Stitching node type: FeederHeadAndHVSubstation, node customID: FHO_10_14_S0001, node description: ''

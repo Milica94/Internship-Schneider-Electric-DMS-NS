@@ -1,0 +1,4 @@
+Stitching node FOUND in model with customID OAT_10_17_S0001 and name 'Rigshospitalet Kabel 1'.
+Stitching node type: FeederHeadAndHVSubstation, node customID: OAT_10_17_S0001, node description: ''
+Stitching node FOUND in model with customID OAT_10_17_S0002 and name 'Rigshospitalet Kabel 2'.
+Stitching node type: FeederHeadAndHVSubstation, node customID: OAT_10_17_S0002, node description: ''

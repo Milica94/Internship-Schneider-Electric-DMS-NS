@@ -1,0 +1,2 @@
+[ERROR] Stitching node NOT FOUND.
+Stitching node type: FeederHeadAndHVSubstation, node customID: HDE_10_16_S0001, node description: ''

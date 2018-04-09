@@ -1,0 +1,2 @@
+Stitching node FOUND in model with customID MAG_10_22_S0001 and name 'Traverbanen'.
+Stitching node type: FeederHeadAndHVSubstation, node customID: MAG_10_22_S0001, node description: ''

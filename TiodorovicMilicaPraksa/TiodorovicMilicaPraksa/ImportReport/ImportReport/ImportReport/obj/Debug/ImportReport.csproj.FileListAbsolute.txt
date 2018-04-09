@@ -1,0 +1,468 @@
+D:\milica\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.pdb
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.exe
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.pdb
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csprojResolveAssemblyReference.cache
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.g.cs
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\obj\Debug\App.g.cs
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.cache
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.lref
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.baml
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.g.resources
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.Properties.Resources.resources
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csproj.GenerateResource.Cache
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\consolna\v2\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.pdb
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.exe
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.pdb
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csprojResolveAssemblyReference.cache
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.g.cs
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\obj\Debug\App.g.cs
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.cache
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.lref
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.baml
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.g.resources
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.Properties.Resources.resources
+D:\milica\consolna\v3\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csproj.GenerateResource.Cache
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.pdb
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.exe
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.pdb
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csprojResolveAssemblyReference.cache
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.g.cs
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\obj\Debug\App.g.cs
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.cache
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.lref
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.baml
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.g.resources
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.Properties.Resources.resources
+D:\milica\consolna\V4\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csproj.GenerateResource.Cache
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.pdb
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.exe
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.pdb
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csprojResolveAssemblyReference.cache
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.g.cs
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\obj\Debug\App.g.cs
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.cache
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.lref
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.baml
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.g.resources
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.Properties.Resources.resources
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csproj.GenerateResource.Cache
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.dll
+D:\milica\consolna\v5\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.pdb
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.dll
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.pdb
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csprojResolveAssemblyReference.cache
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.g.cs
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\obj\Debug\App.g.cs
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.cache
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.lref
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.baml
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.g.resources
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.Properties.Resources.resources
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csproj.GenerateResource.Cache
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\Zadatak 1\v5\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\DataGridFilterLibrary.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Toolkit.WPF.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.pdb
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csprojResolveAssemblyReference.cache
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.g.cs
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\obj\Debug\App.g.cs
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.cache
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.lref
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.baml
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.g.resources
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.Properties.Resources.resources
+D:\milica\Zadatak 1\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csproj.GenerateResource.Cache
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.pdb
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\DataGridFilterLibrary.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.exe
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Toolkit.WPF.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.pdb
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.pdb
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csprojResolveAssemblyReference.cache
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.g.cs
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\obj\Debug\App.g.cs
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.cache
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.lref
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.baml
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.g.resources
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.Properties.Resources.resources
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csproj.GenerateResource.Cache
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\milica\consolna\v6\ImportReport\ImportReport\ImportReport\bin\Debug\WPFToolkit.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.pdb
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\DataGridFilterLibrary.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.exe
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Toolkit.WPF.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\WPFToolkit.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.pdb
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.pdb
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csprojResolveAssemblyReference.cache
+D:\milica\v6\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.g.cs
+D:\milica\v6\ImportReport\ImportReport\ImportReport\obj\Debug\App.g.cs
+D:\milica\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.cache
+D:\milica\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.lref
+D:\milica\v6\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.baml
+D:\milica\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.g.resources
+D:\milica\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.Properties.Resources.resources
+D:\milica\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csproj.GenerateResource.Cache
+D:\milica\v6\ImportReport\ImportReport\ImportReport\obj\Debug\Chart.g.cs
+D:\milica\v6\ImportReport\ImportReport\ImportReport\obj\Debug\Chart.baml
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\DataGridFilterLibrary.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Toolkit.WPF.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\WPFToolkit.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.pdb
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csprojResolveAssemblyReference.cache
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\obj\Debug\Chart.g.cs
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.g.cs
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\obj\Debug\App.g.cs
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.cache
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.lref
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\obj\Debug\Chart.baml
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.baml
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.g.resources
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.Properties.Resources.resources
+D:\milica\Zadatak 1\WPFandConsoleApp\v6\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csproj.GenerateResource.Cache
+D:\milica\Zadatak 1\WPFandConsoleApp\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\Zadatak 1\WPFandConsoleApp\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\Zadatak 1\WPFandConsoleApp\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\WPFandConsoleApp\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\WPFandConsoleApp\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\WPFandConsoleApp\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\New folder\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\New folder\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\New folder\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csprojResolveAssemblyReference.cache
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\obj\Debug\Chart.g.cs
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.g.cs
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\obj\Debug\App.g.cs
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.cache
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.lref
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\DataGridFilterLibrary.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\Toolkit.WPF.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\WPFToolkit.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.pdb
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\obj\Debug\Chart.baml
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.baml
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.g.resources
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.Properties.Resources.resources
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csproj.GenerateResource.Cache
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\DataGridFilterLibrary.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Toolkit.WPF.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\WPFToolkit.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.pdb
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csprojResolveAssemblyReference.cache
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\Chart.g.cs
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.g.cs
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\App.g.cs
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.cache
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.lref
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\Chart.baml
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.baml
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.g.resources
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.Properties.Resources.resources
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csproj.GenerateResource.Cache
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.pdb
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\DataGridFilterLibrary.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Toolkit.WPF.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\WPFToolkit.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.pdb
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csprojResolveAssemblyReference.cache
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\Chart.g.cs
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.g.cs
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\App.g.cs
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.cache
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.lref
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\Chart.baml
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.baml
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.g.resources
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.Properties.Resources.resources
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csproj.GenerateResource.Cache
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csprojResolveAssemblyReference.cache
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\Chart.g.cs
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.g.cs
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\App.g.cs
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.cache
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.lref
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.pdb
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Common.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\DataGridFilterLibrary.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.exe
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Toolkit.WPF.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\WPFToolkit.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\Common.pdb
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.pdb
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.pdb
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\Chart.baml
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.baml
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.g.resources
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.Properties.Resources.resources
+D:\milica\Praksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csproj.GenerateResource.Cache
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe.config
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.exe
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.pdb
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.exe
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\ImportReport.pdb
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Common.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\DataGridFilterLibrary.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.exe
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Toolkit.WPF.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\WPFToolkit.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\Common.pdb
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\ReadAndParse.pdb
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\System.Data.SQLite.pdb
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csprojResolveAssemblyReference.cache
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\Chart.g.cs
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.g.cs
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\App.g.cs
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.cache
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport_MarkupCompile.lref
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\Chart.baml
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\MainWindow.baml
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.g.resources
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.Properties.Resources.resources
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ImportReport\obj\Debug\ImportReport.csproj.GenerateResource.Cache

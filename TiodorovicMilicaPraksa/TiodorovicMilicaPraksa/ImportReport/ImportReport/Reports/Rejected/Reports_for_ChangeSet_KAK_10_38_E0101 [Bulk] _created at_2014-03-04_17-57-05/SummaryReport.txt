@@ -1,0 +1,223 @@
+Parsing CIM extract file.
+Creating CIM model according to CIM profile.
+Creating  changeset for Extract: CIMExport_201403031607_KAK38_1.xml
+
+Report date: 03-04-2014
+---------------------------------------------------------------------------------
+
+
+
+
+Changeset is not valid.
+UpdateResult report received for GIS changeset
+
+ResultType: NotValid.
+
+Error description for entity (CustomId = "BusBar.1355583", Name = "53693:1", Alias = "53693:1")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (JUMPER, globalId: 0x020100510000f158) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "BusBar.830958", Name = "53693:1", Alias = "53693:1")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (JUMPER, globalId: 0x020100510000f159) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "BusBar.835835", Name = "53693:1", Alias = "53693:1")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (JUMPER, globalId: 0x020100510000f15a) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "BusBar.859342", Name = "53693:1", Alias = "53693:1")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (JUMPER, globalId: 0x020100510000f15b) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "HighVoltageSwitch.197770", Name = "KAK b KABEL 3", Alias = "KAK40-53693")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 10kV, (DISCONNECTOR, globalId: 0x0201005d00010236) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "HighVoltageSwitch.197769", Name = "KAK b KABEL 1", Alias = "KAK38-53693")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 10kV, (DISCONNECTOR, globalId: 0x0201005d00010235) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "HighVoltageSwitch.202708", Name = "KAK b KABEL 2", Alias = "KAK39-53693")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 10kV, (DISCONNECTOR, globalId: 0x0201005d00010237) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "HighVoltageSwitch.197770.FaultIndicator", Name = "KAK b KABEL 3", Alias = "KAK40-53693")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 10kV, (FAULTINDICATOR, globalId: 0x0201001f0000ad3f) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "HighVoltageSwitch.197769.FaultIndicator", Name = "KAK b KABEL 1", Alias = "KAK38-53693")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 10kV, (FAULTINDICATOR, globalId: 0x0201001f0000ad3e) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "HighVoltageSwitch.202708.FaultIndicator", Name = "KAK b KABEL 2", Alias = "KAK39-53693")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 10kV, (FAULTINDICATOR, globalId: 0x0201001f0000ad40) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6813755", Name = "KAK40-53693-5_K", Alias = "KAK40-53693-5")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x0201002000008771) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6813756", Name = "KAK38-53693-5_K", Alias = "KAK38-53693-5")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x0201002000008772) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6806347", Name = "KAK39-53693-5_K", Alias = "KAK39-53693-5")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x020100200000876c) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6813754", Name = "KAK40-53693-4_K", Alias = "KAK40-53693-4")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x0201002000008770) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6819515", Name = "KAK38-53693-4_K", Alias = "KAK38-53693-4")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x0201002000008773) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6820556", Name = "KAK39-53693-4_K", Alias = "KAK39-53693-4")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x0201002000008775) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6806349", Name = "KAK40-53693-3_K", Alias = "KAK40-53693-3")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x020100200000876d) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6819516", Name = "KAK38-53693-3_K", Alias = "KAK38-53693-3")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x0201002000008774) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6821632", Name = "KAK39-53693-3_K", Alias = "KAK39-53693-3")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x0201002000008779) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6820558", Name = "KAK40-53693-2_K", Alias = "KAK40-53693-2")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x0201002000008777) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6811566", Name = "KAK38-53693-2_K", Alias = "KAK38-53693-2")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x020100200000876e) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6821631", Name = "KAK39-53693-2_K", Alias = "KAK39-53693-2")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x0201002000008778) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6820557", Name = "KAK40-53693-1_K", Alias = "KAK40-53693-1")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x0201002000008776) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6811567", Name = "KAK38-53693-1_K", Alias = "KAK38-53693-1")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x020100200000876f) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "UndergroundElectricLineSegment.6798582", Name = "KAK39-53693-1_K", Alias = "KAK39-53693-1")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x020100200000876b) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+
+Error description for entity (CustomId = "86ad48d2-14e8-49c2-84d0-4d0f9e058f87", Name = "KAK_10_32_KAK_10_A32")
+Description: Invalid entity
+Error detail 1:
+ - Description: Nominal voltage of the conducting equipment: 12kV, (SECTION, globalId: 0x02080020000017ed) does not correspond to the voltage level limits in the particular network area: (13.1, 14.5)
+ - Hint: rated voltage of the corresponding equipment (catalog); equipment connectivity
+ - PropertyId: CATAL_VOLTAGE
+ - Validation error code: InvalidVoltageCompatibility
+

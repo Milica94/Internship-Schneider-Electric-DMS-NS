@@ -1,0 +1,82 @@
+D:\milica\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe.config
+D:\milica\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe
+D:\milica\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.pdb
+D:\milica\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.csprojResolveAssemblyReference.cache
+D:\milica\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.exe
+D:\milica\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.pdb
+D:\milica\consolna\v2\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe.config
+D:\milica\consolna\v2\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.exe
+D:\milica\consolna\v2\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.pdb
+D:\milica\consolna\v2\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe
+D:\milica\consolna\v2\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.pdb
+D:\milica\consolna\v2\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.csprojResolveAssemblyReference.cache
+D:\milica\consolna\v3\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe.config
+D:\milica\consolna\v3\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.exe
+D:\milica\consolna\v3\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.pdb
+D:\milica\consolna\v3\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.csprojResolveAssemblyReference.cache
+D:\milica\consolna\v3\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe
+D:\milica\consolna\v3\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.pdb
+D:\milica\consolna\V4\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe.config
+D:\milica\consolna\V4\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.exe
+D:\milica\consolna\V4\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.pdb
+D:\milica\consolna\V4\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe
+D:\milica\consolna\V4\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.pdb
+D:\milica\consolna\V4\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.csprojResolveAssemblyReference.cache
+D:\milica\consolna\v5\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe.config
+D:\milica\consolna\v5\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe
+D:\milica\consolna\v5\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.pdb
+D:\milica\consolna\v5\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.csprojResolveAssemblyReference.cache
+D:\milica\consolna\v5\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.exe
+D:\milica\consolna\v5\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.pdb
+D:\milica\v6\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe.config
+D:\milica\v6\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe
+D:\milica\v6\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.pdb
+D:\milica\v6\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.csprojResolveAssemblyReference.cache
+D:\milica\v6\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.exe
+D:\milica\v6\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\WPFandConsoleApp\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe.config
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\WPFandConsoleApp\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\WPFandConsoleApp\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\WPFandConsoleApp\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.csprojResolveAssemblyReference.cache
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\WPFandConsoleApp\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\WPFandConsoleApp\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\New folder\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe.config
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\New folder\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\New folder\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\New folder\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.csprojResolveAssemblyReference.cache
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\New folder\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\MilicaTiodorovic_E3582013\New folder\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe.config
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\APP\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.csprojResolveAssemblyReference.cache
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe.config
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.csprojResolveAssemblyReference.cache
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\appPraksa\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe.config
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.pdb
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.csprojResolveAssemblyReference.cache
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.exe
+D:\milica\Zadatak 1\Praksa\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.pdb
+D:\milica\Praksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe.config
+D:\milica\Praksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe
+D:\milica\Praksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.pdb
+D:\milica\Praksa\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.csprojResolveAssemblyReference.cache
+D:\milica\Praksa\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.exe
+D:\milica\Praksa\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.pdb
+D:\milica\Praksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\Common.dll
+D:\milica\Praksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\Common.pdb
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe.config
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.exe
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\ReadAndParse.pdb
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\Common.dll
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ReadAndParse\bin\Debug\Common.pdb
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.csprojResolveAssemblyReference.cache
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.exe
+D:\milica\TiodorovicMilicaPraksa\TiodorovicMilicaPraksa\ImportReport\ImportReport\ReadAndParse\obj\Debug\ReadAndParse.pdb

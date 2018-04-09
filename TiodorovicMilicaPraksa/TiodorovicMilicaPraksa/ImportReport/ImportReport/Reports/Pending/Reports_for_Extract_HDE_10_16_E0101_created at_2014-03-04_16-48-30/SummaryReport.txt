@@ -1,0 +1,6 @@
+Parsing CIM extract file.
+Creating CIM model according to CIM profile.
+Creating  changeset for Extract: CIMExport_201403031607_HDE16_1.xml
+
+Report date: 03-04-2014
+---------------------------------------------------------------------------------

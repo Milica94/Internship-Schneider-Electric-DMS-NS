@@ -1,0 +1,421 @@
+---------------------------------------------------------------------------------
+Circuit name : KAK_10_29_E0101
+Number of defaulted values: 349
+---------------------------------------------------------------------------------
+Property: ACLineSegment.dynamicRating was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: ACLineSegment, Property: ACLineSegment.dynamicRating, Default value: 0
+Property: ACLineSegment.feederCable was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: ACLineSegment, Property: ACLineSegment.feederCable, Default value: false
+Property: CableCatalog.emergencyTemperature was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: CableCatalog, Property: CableCatalog.emergencyTemperature, Default value: 0
+Property: CableCatalog.isolationMaterial was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: CableCatalog, Property: CableCatalog.isolationMaterial, Default value: 
+Property: Catalog.costPerUnit was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627, Type: LoadBreakSwitchCatalog, Property: Catalog.costPerUnit, Default value: 0
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874, Type: LoadBreakSwitchCatalog, Property: Catalog.costPerUnit, Default value: 0
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.203674, Type: LoadBreakSwitchCatalog, Property: Catalog.costPerUnit, Default value: 0
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: FuseCatalog, Property: Catalog.costPerUnit, Default value: 0
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: DisconnectorCatalog, Property: Catalog.costPerUnit, Default value: 0
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: DisconnectorCatalog, Property: Catalog.costPerUnit, Default value: 0
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: DisconnectorCatalog, Property: Catalog.costPerUnit, Default value: 0
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.FaultIndicator, Type: FaultIndicatorCatalog, Property: Catalog.costPerUnit, Default value: 0
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: JumperCatalog, Property: Catalog.costPerUnit, Default value: 0
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: JumperCatalog, Property: Catalog.costPerUnit, Default value: 0
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: JumperCatalog, Property: Catalog.costPerUnit, Default value: 0
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: JumperCatalog, Property: Catalog.costPerUnit, Default value: 0
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: CableCatalog, Property: Catalog.costPerUnit, Default value: 0
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: TransformerCatalog2W, Property: Catalog.costPerUnit, Default value: 0
+Property: Catalog.ratedVoltage was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: FuseCatalog, Property: Catalog.ratedVoltage, Default value: 10
+Property: ConductorCatalog.dynamicRaitnig was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: CableCatalog, Property: ConductorCatalog.dynamicRaitnig, Default value: 0
+Property: ConductorCatalog.gmr was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: CableCatalog, Property: ConductorCatalog.gmr, Default value: 0.1
+Property: ConnectivityNode.connectorType was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: KAK_10_29_S0001, Type: ConnectivityNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520.DCN_BusBar.818920, Type: ConnectivityNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_BusBar.818920, Type: ConnectivityNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_BusBar.821560, Type: ConnectivityNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_DistributionTransformer.255520.GroundImpedance, Type: ConnectivityNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.ElecNet_Junctions.382759, Type: ConnectivityNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_BusBar.816836, Type: ConnectivityNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_BusBar.821560, Type: ConnectivityNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_FaultInterrupter.155627.Fuse, Type: ConnectivityNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.201874_BusBar.797667, Type: ConnectivityNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.201874_HighVoltageSwitch.201874.FaultIndicator, Type: ConnectivityNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.203674_BusBar.788084, Type: ConnectivityNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicator, Type: ConnectivityNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector.GroundNode, Type: GroundNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector.GroundNode, Type: GroundNode, Property: ConnectivityNode.connectorType, Default value: Unknown
+Property: ConnectivityNode.installationDate was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: KAK_10_29_S0001, Type: ConnectivityNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520.DCN_BusBar.818920, Type: ConnectivityNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_BusBar.818920, Type: ConnectivityNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_BusBar.821560, Type: ConnectivityNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_DistributionTransformer.255520.GroundImpedance, Type: ConnectivityNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: Node.ElecNet_Junctions.382759, Type: ConnectivityNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_BusBar.816836, Type: ConnectivityNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_BusBar.821560, Type: ConnectivityNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_FaultInterrupter.155627.Fuse, Type: ConnectivityNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.201874_BusBar.797667, Type: ConnectivityNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.201874_HighVoltageSwitch.201874.FaultIndicator, Type: ConnectivityNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.201874_UndergroundElectricLineSegment.6214855, Type: ConnectivityNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.203674_BusBar.788084, Type: ConnectivityNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicator, Type: ConnectivityNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector.GroundNode, Type: GroundNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector.GroundNode, Type: GroundNode, Property: ConnectivityNode.installationDate, Default value: 1:00 AM | 1/1/0001
+Property: ConnectivityNode.jointFailureRate was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector.GroundNode, Type: GroundNode, Property: ConnectivityNode.jointFailureRate, Default value: 0.001
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector.GroundNode, Type: GroundNode, Property: ConnectivityNode.jointFailureRate, Default value: 0.001
+Property: ConnectivityNode.jointType was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: KAK_10_29_S0001, Type: ConnectivityNode, Property: ConnectivityNode.jointType, Default value: 
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520.DCN_BusBar.818920, Type: ConnectivityNode, Property: ConnectivityNode.jointType, Default value: 
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_BusBar.818920, Type: ConnectivityNode, Property: ConnectivityNode.jointType, Default value: 
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_BusBar.821560, Type: ConnectivityNode, Property: ConnectivityNode.jointType, Default value: 
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_DistributionTransformer.255520.GroundImpedance, Type: ConnectivityNode, Property: ConnectivityNode.jointType, Default value: 
+	 - Missing value was defaulted - Element ID: Node.ElecNet_Junctions.382759, Type: ConnectivityNode, Property: ConnectivityNode.jointType, Default value: 
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_BusBar.816836, Type: ConnectivityNode, Property: ConnectivityNode.jointType, Default value: 
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_BusBar.821560, Type: ConnectivityNode, Property: ConnectivityNode.jointType, Default value: 
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_FaultInterrupter.155627.Fuse, Type: ConnectivityNode, Property: ConnectivityNode.jointType, Default value: 
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.201874_BusBar.797667, Type: ConnectivityNode, Property: ConnectivityNode.jointType, Default value: 
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.201874_HighVoltageSwitch.201874.FaultIndicator, Type: ConnectivityNode, Property: ConnectivityNode.jointType, Default value: 
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.203674_BusBar.788084, Type: ConnectivityNode, Property: ConnectivityNode.jointType, Default value: 
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicator, Type: ConnectivityNode, Property: ConnectivityNode.jointType, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector.GroundNode, Type: GroundNode, Property: ConnectivityNode.jointType, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector.GroundNode, Type: GroundNode, Property: ConnectivityNode.jointType, Default value: 
+Property: ConnectivityNode.operationManager was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: KAK_10_29_S0001, Type: ConnectivityNode, Property: ConnectivityNode.operationManager, Default value: 
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520.DCN_BusBar.818920, Type: ConnectivityNode, Property: ConnectivityNode.operationManager, Default value: 
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_BusBar.818920, Type: ConnectivityNode, Property: ConnectivityNode.operationManager, Default value: 
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_BusBar.821560, Type: ConnectivityNode, Property: ConnectivityNode.operationManager, Default value: 
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_DistributionTransformer.255520.GroundImpedance, Type: ConnectivityNode, Property: ConnectivityNode.operationManager, Default value: 
+	 - Missing value was defaulted - Element ID: Node.ElecNet_Junctions.382759, Type: ConnectivityNode, Property: ConnectivityNode.operationManager, Default value: 
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_BusBar.816836, Type: ConnectivityNode, Property: ConnectivityNode.operationManager, Default value: 
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_BusBar.821560, Type: ConnectivityNode, Property: ConnectivityNode.operationManager, Default value: 
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_FaultInterrupter.155627.Fuse, Type: ConnectivityNode, Property: ConnectivityNode.operationManager, Default value: 
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.201874_BusBar.797667, Type: ConnectivityNode, Property: ConnectivityNode.operationManager, Default value: 
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.201874_HighVoltageSwitch.201874.FaultIndicator, Type: ConnectivityNode, Property: ConnectivityNode.operationManager, Default value: 
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.203674_BusBar.788084, Type: ConnectivityNode, Property: ConnectivityNode.operationManager, Default value: 
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicator, Type: ConnectivityNode, Property: ConnectivityNode.operationManager, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector.GroundNode, Type: GroundNode, Property: ConnectivityNode.operationManager, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector.GroundNode, Type: GroundNode, Property: ConnectivityNode.operationManager, Default value: 
+Property: ConnectivityNode.ownership was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: KAK_10_29_S0001, Type: ConnectivityNode, Property: ConnectivityNode.ownership, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520.DCN_BusBar.818920, Type: ConnectivityNode, Property: ConnectivityNode.ownership, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_BusBar.818920, Type: ConnectivityNode, Property: ConnectivityNode.ownership, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_BusBar.821560, Type: ConnectivityNode, Property: ConnectivityNode.ownership, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.DistributionTransformer.255520_DistributionTransformer.255520.GroundImpedance, Type: ConnectivityNode, Property: ConnectivityNode.ownership, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.ElecNet_Junctions.382759, Type: ConnectivityNode, Property: ConnectivityNode.ownership, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_BusBar.816836, Type: ConnectivityNode, Property: ConnectivityNode.ownership, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_BusBar.821560, Type: ConnectivityNode, Property: ConnectivityNode.ownership, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.FaultInterrupter.155627_FaultInterrupter.155627.Fuse, Type: ConnectivityNode, Property: ConnectivityNode.ownership, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.201874_BusBar.797667, Type: ConnectivityNode, Property: ConnectivityNode.ownership, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.201874_HighVoltageSwitch.201874.FaultIndicator, Type: ConnectivityNode, Property: ConnectivityNode.ownership, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.203674_BusBar.788084, Type: ConnectivityNode, Property: ConnectivityNode.ownership, Default value: Unknown
+	 - Missing value was defaulted - Element ID: Node.HighVoltageSwitch.203674_HighVoltageSwitch.203674.FaultIndicator, Type: ConnectivityNode, Property: ConnectivityNode.ownership, Default value: Unknown
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector.GroundNode, Type: GroundNode, Property: ConnectivityNode.ownership, Default value: Unknown
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector.GroundNode, Type: GroundNode, Property: ConnectivityNode.ownership, Default value: Unknown
+Property: DisconnectorCatalog.breakingCurrent was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: DisconnectorCatalog, Property: DisconnectorCatalog.breakingCurrent, Default value: 0
+Property: DisconnectorCatalog.reactiveBreakingCurrent was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: DisconnectorCatalog, Property: DisconnectorCatalog.reactiveBreakingCurrent, Default value: 0
+Property: DisconnectorCatalog.subType was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: DisconnectorCatalog, Property: DisconnectorCatalog.subType, Default value: Unspecified
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: DisconnectorCatalog, Property: DisconnectorCatalog.subType, Default value: Unspecified
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: DisconnectorCatalog, Property: DisconnectorCatalog.subType, Default value: Unspecified
+Property: DisconnectorCatalog.thermalCurrent was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: DisconnectorCatalog, Property: DisconnectorCatalog.thermalCurrent, Default value: 0
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: DisconnectorCatalog, Property: DisconnectorCatalog.thermalCurrent, Default value: 0
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: DisconnectorCatalog, Property: DisconnectorCatalog.thermalCurrent, Default value: 0
+Property: Equipment.installDate was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627, Type: LoadBreaker, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874, Type: LoadBreaker, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.203674, Type: LoadBreaker, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: Fuse, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: Disconnector, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: Disconnector, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: Disconnector, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.FaultIndicator, Type: FaultIndicator, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: ACLineSegment, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: PowerTransformer2W, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.GroundImpedance, Type: GroundImpedance, Property: Equipment.installDate, Default value: 1:00 AM | 1/1/0001
+Property: Equipment.manufacturer was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: Disconnector, Property: Equipment.manufacturer, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: Disconnector, Property: Equipment.manufacturer, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: Disconnector, Property: Equipment.manufacturer, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: Equipment.manufacturer, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: Equipment.manufacturer, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: Equipment.manufacturer, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: Equipment.manufacturer, Default value: 
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: ACLineSegment, Property: Equipment.manufacturer, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: PowerTransformer2W, Property: Equipment.manufacturer, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.GroundImpedance, Type: GroundImpedance, Property: Equipment.manufacturer, Default value: 
+Property: Equipment.operationsManager was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: Disconnector, Property: Equipment.operationsManager, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: Disconnector, Property: Equipment.operationsManager, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: Equipment.operationsManager, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: Equipment.operationsManager, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: Equipment.operationsManager, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: Equipment.operationsManager, Default value: 
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: ACLineSegment, Property: Equipment.operationsManager, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.GroundImpedance, Type: GroundImpedance, Property: Equipment.operationsManager, Default value: 
+Property: Equipment.productionDate was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627, Type: LoadBreaker, Property: Equipment.productionDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874, Type: LoadBreaker, Property: Equipment.productionDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.203674, Type: LoadBreaker, Property: Equipment.productionDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: Fuse, Property: Equipment.productionDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: Disconnector, Property: Equipment.productionDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: Disconnector, Property: Equipment.productionDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: Disconnector, Property: Equipment.productionDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.FaultIndicator, Type: FaultIndicator, Property: Equipment.productionDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: Equipment.productionDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: Equipment.productionDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: Equipment.productionDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: Equipment.productionDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: PowerTransformer2W, Property: Equipment.productionDate, Default value: 1:00 AM | 1/1/0001
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.GroundImpedance, Type: GroundImpedance, Property: Equipment.productionDate, Default value: 1:00 AM | 1/1/0001
+Property: Equipment.standardTypeLibrary was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: Disconnector, Property: Equipment.standardTypeLibrary, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: Disconnector, Property: Equipment.standardTypeLibrary, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: Disconnector, Property: Equipment.standardTypeLibrary, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.FaultIndicator, Type: FaultIndicator, Property: Equipment.standardTypeLibrary, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: Equipment.standardTypeLibrary, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: Equipment.standardTypeLibrary, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: Equipment.standardTypeLibrary, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: Equipment.standardTypeLibrary, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: PowerTransformer2W, Property: Equipment.standardTypeLibrary, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.GroundImpedance, Type: GroundImpedance, Property: Equipment.standardTypeLibrary, Default value: 
+Property: Equipment.substationPart was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: Equipment.substationPart, Default value: 0
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: Equipment.substationPart, Default value: 0
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: Equipment.substationPart, Default value: 0
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: Equipment.substationPart, Default value: 0
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: ACLineSegment, Property: Equipment.substationPart, Default value: 0
+Property: Equipment.underground was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627, Type: LoadBreaker, Property: Equipment.underground, Default value: false
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874, Type: LoadBreaker, Property: Equipment.underground, Default value: false
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.203674, Type: LoadBreaker, Property: Equipment.underground, Default value: false
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: Fuse, Property: Equipment.underground, Default value: false
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: Disconnector, Property: Equipment.underground, Default value: false
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: Disconnector, Property: Equipment.underground, Default value: false
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: Disconnector, Property: Equipment.underground, Default value: false
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.FaultIndicator, Type: FaultIndicator, Property: Equipment.underground, Default value: false
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: Equipment.underground, Default value: true
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: Equipment.underground, Default value: true
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: Equipment.underground, Default value: true
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: Equipment.underground, Default value: true
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: ACLineSegment, Property: Equipment.underground, Default value: true
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: PowerTransformer2W, Property: Equipment.underground, Default value: false
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.GroundImpedance, Type: GroundImpedance, Property: Equipment.underground, Default value: false
+Property: FeederObject.autodrawn was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: Station.53623, Type: FeederObject, Property: FeederObject.autodrawn, Default value: true
+Property: FeederObject.automaticSwitchover was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: Station.53623, Type: FeederObject, Property: FeederObject.automaticSwitchover, Default value: false
+Property: FeederObject.hasDistributedGenerator was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: Station.53623, Type: FeederObject, Property: FeederObject.hasDistributedGenerator, Default value: false
+Property: FeederObject.manTypeDesignation was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: Station.53623, Type: FeederObject, Property: FeederObject.manTypeDesignation, Default value: 
+Property: FeederObject.mvStationRTU was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: Station.53623, Type: FeederObject, Property: FeederObject.mvStationRTU, Default value: 
+Property: FeederObject.mvSubstationType was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: Station.53623, Type: FeederObject, Property: FeederObject.mvSubstationType, Default value: Unknown
+Property: FeederObject.stationAccessibility was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: Station.53623, Type: FeederObject, Property: FeederObject.stationAccessibility, Default value: 
+Property: FeederObject.stationSynonym was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: Station.53623, Type: FeederObject, Property: FeederObject.stationSynonym, Default value: 
+Property: FeederObject.underground was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: Station.53623, Type: FeederObject, Property: FeederObject.underground, Default value: false
+Property: FeederObject.windGeneratorInstalled was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: Station.53623, Type: FeederObject, Property: FeederObject.windGeneratorInstalled, Default value: false
+Property: FuseCatalog.breakingCurrent was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: FuseCatalog, Property: FuseCatalog.breakingCurrent, Default value: 63000
+Property: FuseCatalog.lowerCurve was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: FuseCatalog, Property: FuseCatalog.lowerCurve, Default value: 0
+Property: FuseCatalog.upperCurve was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: FuseCatalog, Property: FuseCatalog.upperCurve, Default value: 0
+Property: GroundImpedance.r was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.GroundImpedance, Type: GroundImpedance, Property: GroundImpedance.r, Default value: 0
+Property: GroundImpedance.x was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.GroundImpedance, Type: GroundImpedance, Property: GroundImpedance.x, Default value: 0
+Property: JumperCatalog.breakingCurrent was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: JumperCatalog, Property: JumperCatalog.breakingCurrent, Default value: 0
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: JumperCatalog, Property: JumperCatalog.breakingCurrent, Default value: 0
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: JumperCatalog, Property: JumperCatalog.breakingCurrent, Default value: 0
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: JumperCatalog, Property: JumperCatalog.breakingCurrent, Default value: 0
+Property: LoadBreakSwitchCatalog.subType was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627, Type: LoadBreakSwitchCatalog, Property: LoadBreakSwitchCatalog.subType, Default value: Unspecified
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874, Type: LoadBreakSwitchCatalog, Property: LoadBreakSwitchCatalog.subType, Default value: Unspecified
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.203674, Type: LoadBreakSwitchCatalog, Property: LoadBreakSwitchCatalog.subType, Default value: Unspecified
+Property: PowerSystemResource.documentLinkOne was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627, Type: LoadBreaker, Property: PowerSystemResource.documentLinkOne, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874, Type: LoadBreaker, Property: PowerSystemResource.documentLinkOne, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.203674, Type: LoadBreaker, Property: PowerSystemResource.documentLinkOne, Default value: 
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: Fuse, Property: PowerSystemResource.documentLinkOne, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: Disconnector, Property: PowerSystemResource.documentLinkOne, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: Disconnector, Property: PowerSystemResource.documentLinkOne, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: Disconnector, Property: PowerSystemResource.documentLinkOne, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.FaultIndicator, Type: FaultIndicator, Property: PowerSystemResource.documentLinkOne, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: PowerSystemResource.documentLinkOne, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: PowerSystemResource.documentLinkOne, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: PowerSystemResource.documentLinkOne, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: PowerSystemResource.documentLinkOne, Default value: 
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: ACLineSegment, Property: PowerSystemResource.documentLinkOne, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: PowerTransformer2W, Property: PowerSystemResource.documentLinkOne, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.GroundImpedance, Type: GroundImpedance, Property: PowerSystemResource.documentLinkOne, Default value: 
+Property: PowerSystemResource.documentLinkThree was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: Fuse, Property: PowerSystemResource.documentLinkThree, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: Disconnector, Property: PowerSystemResource.documentLinkThree, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: Disconnector, Property: PowerSystemResource.documentLinkThree, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: Disconnector, Property: PowerSystemResource.documentLinkThree, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: PowerSystemResource.documentLinkThree, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: PowerSystemResource.documentLinkThree, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: PowerSystemResource.documentLinkThree, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: PowerSystemResource.documentLinkThree, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: PowerTransformer2W, Property: PowerSystemResource.documentLinkThree, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.GroundImpedance, Type: GroundImpedance, Property: PowerSystemResource.documentLinkThree, Default value: 
+Property: PowerSystemResource.documentLinkTwo was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: Station.53623, Type: FeederObject, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627, Type: LoadBreaker, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874, Type: LoadBreaker, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.203674, Type: LoadBreaker, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: Fuse, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: Disconnector, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: Disconnector, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: Disconnector, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.FaultIndicator, Type: FaultIndicator, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: ACLineSegment, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: PowerTransformer2W, Property: PowerSystemResource.documentLinkTwo, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.GroundImpedance, Type: GroundImpedance, Property: PowerSystemResource.documentLinkTwo, Default value: 
+Property: PowerSystemResource.workOrderLocation was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: Station.53623, Type: FeederObject, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627, Type: LoadBreaker, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874, Type: LoadBreaker, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.203674, Type: LoadBreaker, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: Fuse, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: Disconnector, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: Disconnector, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: Disconnector, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.FaultIndicator, Type: FaultIndicator, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: ACLineSegment, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: PowerTransformer2W, Property: PowerSystemResource.workOrderLocation, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.GroundImpedance, Type: GroundImpedance, Property: PowerSystemResource.workOrderLocation, Default value: 
+Property: PowerSystemResource.workOrderName was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: Station.53623, Type: FeederObject, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627, Type: LoadBreaker, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874, Type: LoadBreaker, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.203674, Type: LoadBreaker, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: Fuse, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: Disconnector, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: Disconnector, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: Disconnector, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.FaultIndicator, Type: FaultIndicator, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: UndergroundElectricLineSegment.6214855, Type: ACLineSegment, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: PowerTransformer2W, Property: PowerSystemResource.workOrderName, Default value: 
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.GroundImpedance, Type: GroundImpedance, Property: PowerSystemResource.workOrderName, Default value: 
+Property: PowerTransformer.dynamicRaiting was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: PowerTransformer2W, Property: PowerTransformer.dynamicRaiting, Default value: 0
+Property: PowerTransformer2W.windings[0].voltageIndex was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: PowerTransformer2W, Property: PowerTransformer2W.windings[0].voltageIndex, Default value: 1
+Property: PowerTransformer2W.windings[1].voltageIndex was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: PowerTransformer2W, Property: PowerTransformer2W.windings[1].voltageIndex, Default value: 1
+Property: Switch.access was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627, Type: LoadBreaker, Property: Switch.access, Default value: Normal
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874, Type: LoadBreaker, Property: Switch.access, Default value: Normal
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.203674, Type: LoadBreaker, Property: Switch.access, Default value: Normal
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: Fuse, Property: Switch.access, Default value: Normal
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: Disconnector, Property: Switch.access, Default value: Normal
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: Disconnector, Property: Switch.access, Default value: Normal
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: Disconnector, Property: Switch.access, Default value: Normal
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: Switch.access, Default value: Normal
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: Switch.access, Default value: Normal
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: Switch.access, Default value: Normal
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: Switch.access, Default value: Normal
+Property: Switch.failureRate was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: Switch.failureRate, Default value: 0.0016
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: Switch.failureRate, Default value: 0.0016
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: Switch.failureRate, Default value: 0.0016
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: Switch.failureRate, Default value: 0.0016
+Property: Switch.mechanicalAutoChangeover was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627, Type: LoadBreaker, Property: Switch.mechanicalAutoChangeover, Default value: false
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874, Type: LoadBreaker, Property: Switch.mechanicalAutoChangeover, Default value: false
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.203674, Type: LoadBreaker, Property: Switch.mechanicalAutoChangeover, Default value: false
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: Fuse, Property: Switch.mechanicalAutoChangeover, Default value: false
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: Disconnector, Property: Switch.mechanicalAutoChangeover, Default value: false
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: Disconnector, Property: Switch.mechanicalAutoChangeover, Default value: false
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: Disconnector, Property: Switch.mechanicalAutoChangeover, Default value: false
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: Switch.mechanicalAutoChangeover, Default value: false
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: Switch.mechanicalAutoChangeover, Default value: false
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: Switch.mechanicalAutoChangeover, Default value: false
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: Switch.mechanicalAutoChangeover, Default value: false
+Property: Switch.shortCircuitIndicator was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627, Type: LoadBreaker, Property: Switch.shortCircuitIndicator, Default value: false
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: Fuse, Property: Switch.shortCircuitIndicator, Default value: false
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: Disconnector, Property: Switch.shortCircuitIndicator, Default value: false
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: Disconnector, Property: Switch.shortCircuitIndicator, Default value: false
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: Disconnector, Property: Switch.shortCircuitIndicator, Default value: false
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: Jumper, Property: Switch.shortCircuitIndicator, Default value: false
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: Jumper, Property: Switch.shortCircuitIndicator, Default value: false
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: Jumper, Property: Switch.shortCircuitIndicator, Default value: false
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: Jumper, Property: Switch.shortCircuitIndicator, Default value: false
+Property: SwitchCatalog.isolating was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627, Type: LoadBreakSwitchCatalog, Property: SwitchCatalog.isolating, Default value: true
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874, Type: LoadBreakSwitchCatalog, Property: SwitchCatalog.isolating, Default value: true
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.203674, Type: LoadBreakSwitchCatalog, Property: SwitchCatalog.isolating, Default value: true
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: FuseCatalog, Property: SwitchCatalog.isolating, Default value: true
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: DisconnectorCatalog, Property: SwitchCatalog.isolating, Default value: true
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN.Disconnector, Type: DisconnectorCatalog, Property: SwitchCatalog.isolating, Default value: true
+	 - Missing value was defaulted - Element ID: HighVoltageSwitch.201874.Disconnector, Type: DisconnectorCatalog, Property: SwitchCatalog.isolating, Default value: true
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: JumperCatalog, Property: SwitchCatalog.isolating, Default value: true
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: JumperCatalog, Property: SwitchCatalog.isolating, Default value: true
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: JumperCatalog, Property: SwitchCatalog.isolating, Default value: true
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: JumperCatalog, Property: SwitchCatalog.isolating, Default value: true
+Property: SwitchCatalog.ratedCurrent was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520.DCN, Type: DisconnectorCatalog, Property: SwitchCatalog.ratedCurrent, Default value: 0
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: JumperCatalog, Property: SwitchCatalog.ratedCurrent, Default value: 400
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: JumperCatalog, Property: SwitchCatalog.ratedCurrent, Default value: 400
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: JumperCatalog, Property: SwitchCatalog.ratedCurrent, Default value: 400
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: JumperCatalog, Property: SwitchCatalog.ratedCurrent, Default value: 400
+Property: SwitchCatalog.switchType was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: FaultInterrupter.155627.Fuse, Type: FuseCatalog, Property: SwitchCatalog.switchType, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.788084, Type: JumperCatalog, Property: SwitchCatalog.switchType, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.797667, Type: JumperCatalog, Property: SwitchCatalog.switchType, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.816836, Type: JumperCatalog, Property: SwitchCatalog.switchType, Default value: 
+	 - Missing value was defaulted - Element ID: BusBar.821560, Type: JumperCatalog, Property: SwitchCatalog.switchType, Default value: 
+Property: TransformerCatalog.allowedTemperature was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: TransformerCatalog2W, Property: TransformerCatalog.allowedTemperature, Default value: 85
+Property: TransformerCatalog.copperMass was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: TransformerCatalog2W, Property: TransformerCatalog.copperMass, Default value: 0
+Property: TransformerCatalog.dynamicRaitnig was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: TransformerCatalog2W, Property: TransformerCatalog.dynamicRaitnig, Default value: 0
+Property: TransformerCatalog.hotspotRise was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: TransformerCatalog2W, Property: TransformerCatalog.hotspotRise, Default value: 15
+Property: TransformerCatalog.ironMass was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: TransformerCatalog2W, Property: TransformerCatalog.ironMass, Default value: 10
+Property: TransformerCatalog.oilMass was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: TransformerCatalog2W, Property: TransformerCatalog.oilMass, Default value: 0
+Property: TransformerCatalog2W.windingCatals[0].insulationU was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: TransformerCatalog2W, Property: TransformerCatalog2W.windingCatals[0].insulationU, Default value: 0
+Property: TransformerCatalog2W.windingCatals[0].neutralTap was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: TransformerCatalog2W, Property: TransformerCatalog2W.windingCatals[0].neutralTap, Default value: 1
+Property: TransformerCatalog2W.windingCatals[1].insulationU was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: TransformerCatalog2W, Property: TransformerCatalog2W.windingCatals[1].insulationU, Default value: 0
+Property: TransformerCatalog2W.windingCatals[1].neutralTap was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: TransformerCatalog2W, Property: TransformerCatalog2W.windingCatals[1].neutralTap, Default value: 1
+Property: TransformerCatalog2W.windingTest.excitingCurrent was defaulted in following situations:
+	 - Missing value was defaulted - Element ID: DistributionTransformer.255520, Type: TransformerCatalog2W, Property: TransformerCatalog2W.windingTest.excitingCurrent, Default value: 0

@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------------
+Circuit name : HDE_10_98_E0101
+Number of reported fatal errors: 0
+Number of reported errors: 2
+Number of reported warnings: 10
+---------------------------------------------------------------------------------
+Error with code: STITCHING_NODE_NOT_FOUND was reported in following situations:
+	 - Stitching node with id: HDE_10_98_S0001 cold not be found in dms schema.
+	 - Stitching node with id: HDE_10_99_S0001 cold not be found in dms schema.
+---------------------------------------------------------------------------------
+Warning with code: ACLINESEGMENT_NO_RATED_CURRENT was reported in following situations:
+	 - ACLineSegment does not have a rated current attribute assigned to it - ACLineSegment ID: UndergroundElectricLineSegment.9521825
+	 - ACLineSegment does not have a rated current attribute assigned to it - ACLineSegment ID: UndergroundElectricLineSegment.9521826
+Warning with code: ACLINESEGMENT_NO_RESISTANCE was reported in following situations:
+	 - ACLineSegment does not have a resistance attribute assigned to it - ACLineSegment ID: UndergroundElectricLineSegment.9521825
+	 - ACLineSegment does not have a resistance attribute assigned to it - ACLineSegment ID: UndergroundElectricLineSegment.9521826
+Warning with code: RATED_VOLTAGE_NOT_DEFINED was reported in following situations:
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: HighVoltageSwitch.363907
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: HighVoltageSwitch.363908
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: HighVoltageSwitch.363907.FaultIndicator
+	 - Equipment doesn't have RatedVoltage defined - Equipment ID: HighVoltageSwitch.363908.FaultIndicator
+Warning with code: SUSPICIOUS_ENTITY_LOCATION_POSITIONPOINT_OR_LINE was reported in following situations:
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.32264230346891, Line id: UndergroundElectricLineSegment.9521825, Point Element ID: Station.32071
+	 - Locations of electrically connected line and point element do not match. Minimal distance = 1.37856965709937, Line id: UndergroundElectricLineSegment.9521826, Point Element ID: Station.32071
